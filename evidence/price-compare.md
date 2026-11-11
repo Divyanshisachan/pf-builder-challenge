@@ -18,6 +18,7 @@ Same listed price can hide a very different real cost. ✅ included · ➕ extra
 | 12 | Studio One, Marina (same building as #10) | Search card 7,500/mo; **detail page 95,000/yr**; 7,500 only on a **6-month** booking | 357 | 21.0 (22.2 at 95k/yr) | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | Payment terms not stated | 7,500 only with a 6-month commitment; otherwise unknown |
 | 13 | Grand Millennium BB (**hotel room**) | 7,500 (offer valid to 30 Nov) | 315 | 23.8 | ❓ | ❓ | ✅ incl. | ➕ AED 450, first 30 nights | ❓ | ❓ | ✅ 10% service + 7% municipality incl.; 30-night min., non-refundable if leaving early; breakfast extra | ~7,950 in month 1, ~7,500 after |
 | 14 | Executive Bay A, BB | 7,000 (1-month rate; 2–12 mo packages unpriced) | 482 | 14.5 | ➕ excluded on yearly; monthly not stated | ❓ | ➕ extra | ➕ "DTCM fee", no amount | ❓ | ➕ refundable, no amount | Admin fee (no amount); cleaning paid add-on; 1 cheque | ~7,350 + DTCM + admin fee |
+| 15 | Marina Diamond 1, Marina | 7,000 (current month only; later months "higher or same") | 385 | 18.2 | ❓ | ❓ (review: AC in service charge) | ❓ | ❓ | ➕ applicable, no amount | ➕ 1,500 refundable | Seasonal rates after month 1 | 7,000 + agency fee + unknowns |
 
 ## What the table shows
 - **#1 vs #3:** similar price (5,000 vs 5,500) and size (520 vs 600), but #1 discloses nothing while #3 discloses most items.

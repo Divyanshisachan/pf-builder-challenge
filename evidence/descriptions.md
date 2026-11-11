@@ -128,3 +128,13 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - ❌ chiller, service charge, agency fee, Ejari, minimum stay, photos real/indicative.
 - Badge "90% less than average" again; like-for-like ~18% above. No same-building rental records shown; 62 active rental listings in the building.
 - **First-timer would miss:** 7,000 + 5% VAT = 7,350 + DTCM + admin fee, already near or over 7,500; the multi-month discount is unknown until asked.
+
+## #15 Marina Diamond 1, AED 7,000/mo, 385 sqft (user rated B)
+- Agency: Druvya Holiday Homes; agent Senthil Raj Subramaniam, 4.3 (8). DTCM = agent licence = 1114281; broker licence "00000". Listed 1 month ago; available 20 Sep 2026. 40 photos.
+- ✅ full kitchen (stove, washer, microwave, fridge) · ✅ **deposit AED 1,500 refundable** · ✅ **metro 5-min walk** · pool, gym, spa.
+- ➕ Agency fee applicable, no amount.
+- ⚠️ Rate applies to the **current month only**; later months are seasonal, "higher or same".
+- ❌ lease type/minimum stay, DEWA, chiller, VAT, tourism fee, service charge, cleaning, Ejari, floor, view, photos real/indicative.
+- Building reviews 4.2 (8): dated amenities, maintenance 3.8, road noise on the Sheikh Zayed Road side (matches the user's "building not that good").
+- Badge "91% less" again; like-for-like ~12% above average.
+- **First-timer would miss:** month 2+ can cost more; agency fee unknown; road-facing units are noisy.
