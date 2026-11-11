@@ -4,7 +4,7 @@
 
 ## Bio
 - From India, in Dubai for the first time
-- Short stint: 3–6 months, so needs a **short-term (monthly) stay, not an annual lease**; wants the lease type stated clearly
+- Short stint of **uncertain length**: starts ~3 months, could extend to 4, 5, 6, 7, 8+; **can't commit to a fixed term upfront**, so needs a **short-term (monthly) stay, not an annual lease**; wants the lease type stated clearly
 - No fixed office; moves between client meetings across the city
 - Doesn't know Dubai's areas
 

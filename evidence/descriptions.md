@@ -102,3 +102,11 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - ❌ lease type, Ejari, minimum stay, chiller, itemised bills ("bills included" in the title only), agency/cleaning/service fees, photos real/indicative, **metro/bus distance**.
 - Same "89% less than average" monthly-vs-annual badge.
 - **First-timer would miss:** for her 3-month stay the real price is **9,000 + 450 VAT ≈ 9,450 + tourism fee**, not 7,500. The search card shows 7,500.
+
+## #12 Studio One, Marina (same building as #10)
+- Agency: ShellGrow Holiday Homes; agent Maria Avdiukova, 3.9 (16). **DTCM permit field = "tmp"** (placeholder); broker licence "00". Listed 6+ months ago; available 6 Nov 2026. 34 photos.
+- "High floor" in the title, no number; water view; full kitchen (cooker, microwave, washing machine); gym, pool, **sauna, steam**; DMCC metro "nearby" (no distance).
+- ⚠️ **Three prices:** search card 7,500/mo · detail page **95,000/yr** · description: 7,500/mo **only for a 6-month booking**. And 7,500 × 12 = 90k, not 95k.
+- Badge here is correct: **26% above** the Marina average (75,173). Same-building rentals for 357 sqft: **AED 56k–76k/yr**, so 90–95k is well above actual transactions.
+- ❌ payment terms, DEWA, chiller, VAT, tourism fee, agency fee, deposit, cleaning, Ejari, minimum stay, photos real/indicative.
+- **First-timer would miss:** the 7,500 seen in search needs a 6-month commitment; recorded rents in the same building are much lower; the permit field is a placeholder.
