@@ -59,3 +59,11 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - ❌ DEWA, chiller, agency fee, Ejari, minimum stay, photos real/indicative, sauna, metro.
 - "Hotel-serviced" language on a monthly rental; amenity lists differ between sections; "Limited time offer" with no details. Building reviews mention limited gym, noise, garbage.
 - **First-timer would miss:** 6,999 + 5% VAT + 10% service charge ≈ **8,050+** before tourism fee and deposit, well above a 7,500 cap.
+
+## #7 DAMAC Maison Privé A, AED 6,999/mo, 431 sqft (duplicate of #6)
+- Agency: JSR Global (same as #6); different agent, Abhishek Tiwari, 3.7 (19). DTCM BUS-PRI-LMIEI (different permit from #6's BUS-PRI-NOQIC). Agent licence field reads "DriverLicense"; broker licence "-". 12 cheques. 37 photos.
+- Description is near-identical to #6: VAT 5% extra, tourism fee extra, 10% service charge, deposit with no amount, weekend/holiday rates; ❌ DEWA, chiller, agency fee, Ejari, minimum stay, metro.
+- "Summer Offer" in the title with no terms. Garbled text in the description.
+- Badge says "90% less than average"; on a like-for-like annual basis (~84k vs 71,359) it is **~18% above** average.
+- Building sales history: the same 431 sqft studio sold for AED 700k–1.125M (2024–26).
+- **First-timer would miss:** this is the same flat as #6, not a second option; real cost ≈ 8,050+.

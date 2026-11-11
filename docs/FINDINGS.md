@@ -13,3 +13,5 @@
 9. **Floor and view not stated.** Matters for a searcher who wants a high floor with a view. (Listing #5)
 10. **Inclusions stated = trust boost.** Listing #5 lists what is included/excluded, which the user called a good touch. (Listing #5)
 11. **Same "bait" photo set across many agents.** One set of DAMAC Maison Privé interior photos appears on multiple listings (#2, #6, and the next). From past experience, ~95% of listings using these photos sent a different video/unit when contacted, and that look was never found in Business Bay. (Listing #6)
+12. **Duplicate listing of the same unit.** #7 is the same unit as #6 (same price, size and photos) posted by a different agent (same agency, JSR Global). The searcher sees two "options" that are really one. (Listings #6, #7)
+13. **Building/amenity photos add realism.** #7 adds corridor and amenity shots, making it feel more real than #6. (Listing #7)
