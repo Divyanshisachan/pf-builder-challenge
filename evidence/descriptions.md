@@ -110,3 +110,12 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - Badge here is correct: **26% above** the Marina average (75,173). Same-building rentals for 357 sqft: **AED 56k–76k/yr**, so 90–95k is well above actual transactions.
 - ❌ payment terms, DEWA, chiller, VAT, tourism fee, agency fee, deposit, cleaning, Ejari, minimum stay, photos real/indicative.
 - **First-timer would miss:** the 7,500 seen in search needs a 6-month commitment; recorded rents in the same building are much lower; the permit field is a placeholder.
+
+## #13 Grand Millennium Business Bay, AED 7,500/mo, 315 sqft
+- **Listed by the hotel itself** (agency = Grand Millennium Business Bay Hotel); agent Shin Manalastas, **no ratings**. Permit, broker licence and agent licence all = 1449595. Listed 3 months ago; available 15 Jul 2026 (past).
+- ⚠️ **A hotel "Superior Room" listed as an Apartment/Studio. No kitchen or kitchenette** (persona deal-breaker).
+- ✅ The rate **includes** 10% service + 7% municipality + 5% VAT (the opposite of most listings) · ➕ tourism dirham AED 450 for the first 30 nights · breakfast AED 55 extra · offer valid until 30 Nov 2026.
+- ✅ **Long-stay perks:** 50% off laundry, 35% off F&B, housekeeping twice a week, free Wi-Fi and parking, gym and pool.
+- ⚠️ **30-night minimum; leaving early = whole amount non-refundable.**
+- ❌ DEWA/bills, chiller, agency fee, deposit, Ejari, payment terms, metro, photos real/indicative.
+- **First-timer would miss:** it's a hotel room with no kitchen, not a studio; ~7,950 in month 1; the non-refundable early-exit rule is risky for an uncertain stay length.

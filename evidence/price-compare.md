@@ -16,6 +16,7 @@ Same listed price can hide a very different real cost. ✅ included · ➕ extra
 | 10 | Studio One, Marina | 7,500 | 355 | 21.1 | ✅ electricity, water, gas, Wi-Fi, TV | ✅ incl. | ➕ extra | ➕ "DTCM fee", no amount | ❓ | ➕ refundable, no amount | Admin fee (no amount); cleaning is paid add-on; 1 cheque; seasonal rates | ~7,875 + DTCM + admin fee |
 | 11 | Bayz by Danube, BB | 7,500 headline, but **9,000 for 3 mo / 8,000 for 6 mo** in description | 407 | 18.4 (22.1 at 9k) | ✅ "bills incl." (title only) | ❓ | ➕ extra | ➕ extra, no amount | ❓ | ➕ required, no amount | Offer valid current month only; seasonal rates | **~9,450 + tourism fee for a 3-month stay** |
 | 12 | Studio One, Marina (same building as #10) | Search card 7,500/mo; **detail page 95,000/yr**; 7,500 only on a **6-month** booking | 357 | 21.0 (22.2 at 95k/yr) | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | Payment terms not stated | 7,500 only with a 6-month commitment; otherwise unknown |
+| 13 | Grand Millennium BB (**hotel room**) | 7,500 (offer valid to 30 Nov) | 315 | 23.8 | ❓ | ❓ | ✅ incl. | ➕ AED 450, first 30 nights | ❓ | ❓ | ✅ 10% service + 7% municipality incl.; 30-night min., non-refundable if leaving early; breakfast extra | ~7,950 in month 1, ~7,500 after |
 
 ## What the table shows
 - **#1 vs #3:** similar price (5,000 vs 5,500) and size (520 vs 600), but #1 discloses nothing while #3 discloses most items.

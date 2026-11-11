@@ -27,3 +27,7 @@
 23. **The price changes between search card, detail page and description.** #12: search card AED 7,500/mo, then the detail page says 95,000/yr, then the description says 7,500 applies only to a 6-month booking. Three different "prices" for one listing. (Listing #12; similar in #11)
 24. **Headline price is conditional on a commitment the searcher can't make.** The best rate is tied to a fixed term (6 months), but a visitor with an uncertain stay can't commit, so the advertised price isn't her price. (Listings #11, #12)
 25. **Same building, very different units.** #10 and #12 are both Studio One, but the units look very different, so building photos say little about the unit. (Listings #10, #12)
+26. **Cover photo isn't the unit.** #13's search card opens on a hotel reception image; she had to click in to see the actual room. (Listing #13)
+27. **Same images, different prices.** #13's photos were seen on another, cheaper listing. (Listing #13)
+28. **Long-stay offers are buried in descriptions.** #13 is the first listing with long-stay special offers, and she only found them by reading the description. She'd like to see offers without opening every listing. (Listing #13)
+29. **Wants a cost calculator.** Descriptions list 5% this, 7% that; she wants to calculate the real total without doing the maths herself. (Listing #13)
