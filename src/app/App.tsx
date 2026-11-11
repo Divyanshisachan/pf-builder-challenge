@@ -38,7 +38,7 @@ export default function App({ start = "search" }: { start?: Screen }) {
   const [sheet, setSheet] = useState<string | null>(null);
   const [page, setPage] = useState(1);
   const [open, setOpen] = useState<number>(11);
-  const [saved, setSaved] = useState<number[]>(PRESAVED);
+  const [saved, setSaved] = useState<number[]>(start === "wishlist" ? [11, 16, ...PRESAVED] : PRESAVED);
   const [toast, setToast] = useState<{ t: string; go?: boolean } | null>(null);
   const [scoutK, setScoutK] = useState<number | null>(null);
   const [chats, setChats] = useState<Record<number, { from: "me" | "them" | "sys"; text: string }[]>>({});

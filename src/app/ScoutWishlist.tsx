@@ -75,7 +75,7 @@ export default function ScoutWishlist({ initialSaved, onBack, onOpen }: { initia
   const groupOf = (k: number): Group => override[k]?.group ?? trust[k].group;
   const reasonOf = (k: number) => override[k]?.reason ?? trust[k].top;
   const active = saved.filter((k) => !archived.includes(k));
-  const flagged = active.filter((k) => groupOf(k) !== "genuine").length;
+  const flagged = active.filter((k) => groupOf(k) === "misleading").length;
   const misleadingN = active.filter((k) => groupOf(k) === "misleading").length;
 
   useEffect(() => { setToast({ t: `Scout checked your ${active.length} saved homes: ${flagged} need a look →`, go: () => goScout() }); /* eslint-disable-next-line */ }, []);
@@ -204,7 +204,7 @@ export default function ScoutWishlist({ initialSaved, onBack, onOpen }: { initia
   } else if (tab === "list") {
     body = (
       <>
-        <div className="scoutbar" onClick={goScout}><div className="t"><span className="spark">✦</span>Scout checked your {active.length} saved homes</div><p>{flagged} need a look. Tap to see why →</p></div>
+        <div className="scoutbar" onClick={goScout}><div className="t"><span className="spark">✦</span>Scout checked your {active.length} saved homes</div><p>{flagged} look misleading and {active.filter((k) => groupOf(k) === "checking").length} need checking. Tap to see why →</p></div>
         <div className="count"><span>{active.length} saved</span><button style={{ color: "#E1251B", fontWeight: 700 }} onClick={() => setSelect(select ? null : [])}>{select ? "Cancel" : "Select"}</button></div>
         {active.map((k) => <Card key={k} k={k} mode="list" />)}
       </>
