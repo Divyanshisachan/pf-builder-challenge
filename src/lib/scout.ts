@@ -65,7 +65,7 @@ export function judge(l: Listing, p: Persona = DIVYANSHI): Verdict {
   if (l.conditional) s.push({ rule: "R8", type: "price-not-payable", text: l.conditional, ask: "What's the all-in monthly price for a 3-month stay, and can I extend at the same rate?" });
   else if (uplift > 0.1) s.push({ rule: "R8", type: "price-not-payable", text: `Stated extras add ~${Math.round(uplift * 100)}% to the headline`, ask: "Please confirm the all-in monthly total including VAT, service charge and tourism fee." });
   // R9: location can't be verified
-  if (l.locationIssue) s.push({ rule: "R9", type: "location", text: l.locationIssue, ask: "Which building and floor is this, and how far is the nearest metro on foot?" });
+  if (l.locationIssue) s.push({ rule: "R9", type: "location", text: l.locationIssue, ask: l.building === "not named" ? "Which building and floor is this, and how far is the nearest metro on foot?" : "How far is the nearest metro on foot, and what does the unit actually look out on?" });
   // R11: agent track record (weight only)
   if (l.rating && l.reviews >= 20 && l.rating >= 3.5) pos.push(`Agent rated ${l.rating} from ${l.reviews} reviews`);
   // R12: PF rent badge ignored; we use like-for-like AED/sqft above.
