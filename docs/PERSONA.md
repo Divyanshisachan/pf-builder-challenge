@@ -15,7 +15,8 @@
 - Grocery store nearby
 - Building with gym, pool and sauna (nice to have)
 - Clean, healthy apartment
-- Prefers a higher floor with a view
+- Prefers a higher floor with a view; **a good view matters** ("if I'm moving to Dubai, I want a good view")
+- **Kitchen required**: wants to cook her own food
 
 ## Budget
 - AED 5,000–7,500/month (company allowance)

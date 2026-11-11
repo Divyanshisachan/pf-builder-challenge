@@ -67,3 +67,13 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - Badge says "90% less than average"; on a like-for-like annual basis (~84k vs 71,359) it is **~18% above** average.
 - Building sales history: the same 431 sqft studio sold for AED 700k–1.125M (2024–26).
 - **First-timer would miss:** this is the same flat as #6, not a second option; real cost ≈ 8,050+.
+
+## #8 Merano Tower, AED 6,499/mo, 334 sqft
+- Agency: JSR Global (3rd JSR listing); agent Mohammed Hassan (also #6), 3.8 (4). **No DTCM/RERA permit shown.** Agent licence "12345"; broker licence "-". 1 cheque. 34 photos.
+- Listed 6+ months ago; available from 10 Oct 2026.
+- "Landmark view" plus a Downtown/skyline view claimed; floor not stated.
+- Kitchen: only "kitchen appliances" listed; no kitchen or kitchenette stated.
+- ✅ "Inclusive of all utilities" in the title only · near the Dubai Mall metro.
+- ❌ chiller, VAT, tourism fee, agency fee, deposit, Ejari, minimum stay, service charge, photos real/indicative, gym, sauna.
+- Same "91% less than average" monthly-vs-annual badge; tower unit mix inconsistent (studio–3BR vs studio–2BR); no rental history shown.
+- **First-timer would miss:** "studio" may mean a hotel room without a kitchen; JSR's other listings (#6, #7) charge VAT + a 10% service charge, so check whether that applies here too.

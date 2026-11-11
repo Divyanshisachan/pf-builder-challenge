@@ -11,6 +11,7 @@ Same listed price can hide a very different real cost. ✅ included · ➕ extra
 | 5 | Marina, not named | 6,990 | 500 | 14.0 | ✅ "bills incl." (title only) | ❓ | ❓ | ➕ AED 10/night ≈ 300 | ➕ applicable, no amount | ❓ | 200 cleaning (one-off); holiday surcharges | ~7,290 + agency fee |
 | 6 | DAMAC Maison Privé, BB | 6,999 | 431 | 16.2 | ❓ | ❓ | ➕ extra | ➕ extra, no amount | ❓ | ➕ required, no amount | **10% service charge** | ~8,050 + tourism fee |
 | 7 | DAMAC Maison Privé A, BB (= #6) | 6,999 | 431 | 16.2 | ❓ | ❓ | ➕ extra | ➕ extra, no amount | ❓ | ➕ required, no amount | **10% service charge**; 12 cheques | ~8,050 + tourism fee |
+| 8 | Merano Tower, BB | 6,499 | 334 | 19.5 | ✅ "all utilities" (title only) | ❓ | ❓ | ❓ | ❓ | ❓ | 1 cheque | 6,499 + unknowns |
 
 ## What the table shows
 - **#1 vs #3:** similar price (5,000 vs 5,500) and size (520 vs 600), but #1 discloses nothing while #3 discloses most items.

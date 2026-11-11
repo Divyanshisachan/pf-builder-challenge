@@ -9,10 +9,11 @@
 | 5 | Marina, not named | Moahmmed Qayam | OYO Vacation Homes Rental LLC | 3.9 (9) | DTCM UAE-DUB-412 | na |
 | 6 | DAMAC Maison Privé, BB | Mohammed Hassan | JSR Global Vacation Home Rentals LLC | 3.9 (7) | DTCM BUS-PRI-NOQIC | – |
 | 7 | DAMAC Maison Privé A, BB | Abhishek Tiwari | JSR Global Vacation Home Rentals LLC | 3.7 (19) | DTCM BUS-PRI-LMIEI | – |
+| 8 | Merano Tower, BB | Mohammed Hassan | JSR Global Vacation Home Rentals LLC | 3.8 (4) | none shown | – (agent licence "12345") |
 
 ## Patterns
 - **4 agencies across 7 listings**, all holiday-home or vacation-rental operators.
-- Repeat agents and agencies: Nandhini (#1, #2, same permit in two areas); OYO (#4, #5); JSR (#6, #7, same unit).
+- Repeat agents and agencies: Nandhini (#1, #2, same permit in two areas); OYO (#4, #5); JSR (#6, #7, #8; Mohammed Hassan on #6 and #8, shown as 3.9 (7) and 3.8 (4) on the two pages).
 - No agent rated above 4.5; the highest has only 2 ratings; one has none.
 
 _Updated with every new listing._
