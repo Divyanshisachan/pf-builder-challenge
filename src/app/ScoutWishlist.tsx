@@ -138,7 +138,7 @@ export default function ScoutWishlist({ initialSaved, onBack, onOpen }: { initia
           {mode === "scout" && !select && (
             <div style={{ display: "flex", gap: 6, marginTop: 8, flexWrap: "wrap" }} onClick={(e) => e.stopPropagation()}>
               <button className="mini" onClick={() => setSheet(k)}>Details</button>
-              {g !== "misleading" && <><button className="mini" onClick={() => setToast({ t: "Call: opens the dialler (prototype)" })}>Call</button><button className="mini wa" onClick={() => setToast({ t: "WhatsApp: opens wa.me with Scout's message (prototype)" })}>WhatsApp</button></>}
+              <button className="mini" onClick={() => setToast({ t: "Call: opens the dialler (prototype)" })}>Call</button><button className="mini wa" onClick={() => setToast({ t: "WhatsApp: opens wa.me with Scout's message (prototype)" })}>WhatsApp</button>
               {g === "checking" && <button className="mini navy" onClick={() => startFlow([k])}>✦ Ask Scout to verify</button>}
             </div>
           )}
