@@ -146,3 +146,10 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - ❌ VAT, tourism fee, service charge, agency fee, deposit, cleaning, Ejari, minimum stay, photos real/indicative.
 - Badge "90% less" again (like-for-like ~22% above). Building reviews 4.4 (7), mostly 5–11 years old; gym described as "small".
 - **First-timer would miss:** whether VAT/tourism fee apply on top; that the discount is unspecified until negotiated.
+
+## #17 Yacht Bay, Marina, 15th floor, AED 7,699/mo, 460 sqft
+- Agency: Colife (same as #16); agent Andrei Shchuko, 4.3 (4). DTCM DUB-YAC-OPYTU; broker licence 1044321. Listed 6 days ago; available 30 Nov 2026. 31 photos. Different unit from #16 (15th vs 5th floor).
+- ✅ **DEWA, chiller, Wi-Fi, maintenance included** (if stay < 1 year) · ✅ long-term discount (no figure) · ✅ pool, gym, **sauna, steam** · ✅ **distances: Marina Walk 3 min, DMCC metro 6–8 min walk, Marina Mall 8–10, JBR 10–12; MoE 15–18, Downtown 20–22, DXB 25 min drive**.
+- ❌ VAT, tourism fee, service charge, agency fee, deposit, cleaning, Ejari, lease type, photos real/indicative.
+- Same template text as #16; "90% less" badge again (like-for-like above average).
+- **First-timer would miss:** whether VAT/tourism fee apply on top; the discount is unknown until negotiated.

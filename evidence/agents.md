@@ -18,6 +18,7 @@
 | 14 | Executive Bay A, BB | Jannel Calma (same as #10) | Stonetree Vacation Homes Rental LLC | 4.2 (12) | DTCM BUS-EXE-D4AZ9 | 00000 (agent licence 775214) |
 | 15 | Marina Diamond 1, Marina | Senthil Raj Subramaniam (surname spelled two ways) | Druvya Holiday Homes LLC | 4.3 (8) | DTCM 1114281 | 00000 |
 | 16 | Yacht Bay, Marina | Artem Babinov | Colife Vacation Homes LLC | 3.8 (**104**) | DTCM DUB-YAC-QZL25 | 1044321 (real-looking) |
+| 17 | Yacht Bay, Marina | Andrei Shchuko | Colife Vacation Homes LLC | 4.3 (4) | DTCM DUB-YAC-OPYTU | 1044321 |
 
 ## Patterns
 - **4 agencies across 7 listings**, all holiday-home or vacation-rental operators.

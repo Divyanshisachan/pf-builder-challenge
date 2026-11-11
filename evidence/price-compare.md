@@ -20,6 +20,7 @@ Same listed price can hide a very different real cost. ✅ included · ➕ extra
 | 14 | Executive Bay A, BB | 7,000 (1-month rate; 2–12 mo packages unpriced) | 482 | 14.5 | ➕ excluded on yearly; monthly not stated | ❓ | ➕ extra | ➕ "DTCM fee", no amount | ❓ | ➕ refundable, no amount | Admin fee (no amount); cleaning paid add-on; 1 cheque | ~7,350 + DTCM + admin fee |
 | 15 | Marina Diamond 1, Marina | 7,000 (current month only; later months "higher or same") | 385 | 18.2 | ❓ | ❓ (review: AC in service charge) | ❓ | ❓ | ➕ applicable, no amount | ➕ 1,500 refundable | Seasonal rates after month 1 | 7,000 + agency fee + unknowns |
 | 16 | Yacht Bay, Marina | 7,649 (long-term discount, unpriced) | 460 | 16.6 | ✅ DEWA, Wi-Fi | ✅ incl. | ❓ | ❓ | ❓ | ❓ | 12 cheques; maintenance incl. | 7,649 + unknowns (VAT/tourism?) |
+| 17 | Yacht Bay, Marina (15th fl.) | 7,699 (long-term discount, unpriced) | 460 | 16.7 | ✅ DEWA, Wi-Fi (stays < 1 yr) | ✅ incl. | ❓ | ❓ | ❓ | ❓ | 12 cheques; maintenance incl. | 7,699 + unknowns (VAT/tourism?) |
 
 ## What the table shows
 - **#1 vs #3:** similar price (5,000 vs 5,500) and size (520 vs 600), but #1 discloses nothing while #3 discloses most items.
