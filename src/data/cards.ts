@@ -76,7 +76,7 @@ Community & Nearby (Dubai Marina):
 ];
 
 // Earlier saves (pre-seeded so the wishlist shows Scout across trusted / check / removed)
-export const PRESAVED = [2, 14, 9];
+export const PRESAVED = Array.from({ length: 32 }, (_, i) => i + 1).filter((k) => k !== 11 && k !== 16); // 30 earlier saves; the demo saves #11 and #16
 
 // Mocked agent replies, grounded in what each listing's own description says (prototype only).
 export const MOCK_REPLY: Record<number, string> = {
