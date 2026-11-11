@@ -85,7 +85,7 @@ export default function ScoutWishlist({ initialSaved, onBack, onOpen }: { initia
   const goScout = () => { setTab("scout"); setScanning(true); window.setTimeout(() => setScanning(false), 1400); };
   const ask = (k: number) => {
     const l = L(k); const v = judge(l); const t = trust[k];
-    const specific = Array.from(new Set([...v.questions, ...t.signals.filter((s) => s.points < 0).slice(0, 1).map((s) => `Your listing shows: "${s.plainReason}". Can you clarify?`)])).slice(0, 2);
+    const specific = Array.from(new Set([...v.questions, ...t.signals.filter((s) => s.points < 0).slice(0, 1).map((s) => `Your listing shows: "${s.plainReason}". Can you clarify?`)])).slice(0, 1);
     return `Hi ${l.agent.split(" ")[0]}, I'm interested in your listing at ${l.building} (AED ${fmt(l.price)}/month).\n\nMy needs: ${needs.budget}, move-in ${needs.move}, ${needs.stay}, ${needs.pay.toLowerCase()} payment.\n\n${[...needs.confirms, ...specific].map((q, i) => `${i + 1}. ${q}`).join("\n")}\n\nThanks!\n— Sent by Scout on behalf of Divyanshi`;
   };
   const startFlow = (ks: number[]) => { setSelect(null); setDrafts(Object.fromEntries(ks.map((k) => [k, ""]))); setFlow(1); };
