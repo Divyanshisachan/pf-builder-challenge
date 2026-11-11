@@ -75,7 +75,8 @@ export function trustCheck(l: Listing, today = "2026-11-12"): Trust {
   const score = Math.max(0, Math.min(100, 100 + sig.reduce((s, x) => s + x.points, 0)));
   const group: Group = score >= 70 ? "genuine" : score >= 40 ? "checking" : "misleading";
   const neg = [...sig].filter((x) => x.points < 0).sort((a, b) => a.points - b.points);
-  const top = neg[0]?.plainReason ?? sig.find((x) => x.points > 0)?.plainReason ?? "No warning signs on the listing";
+  const posTop = [...sig].filter((x) => x.points > 0).sort((a, b) => b.points - a.points)[0]?.plainReason;
+  const top = group === "genuine" ? (posTop ? `✓ ${posTop}${neg[0] ? ` · ${neg[0].plainReason}` : ""}` : neg[0]?.plainReason ?? "No warning signs on the listing") : neg[0]?.plainReason ?? "No warning signs on the listing";
   return { score, group, signals: sig.filter((x) => x.plainReason), top };
 }
 

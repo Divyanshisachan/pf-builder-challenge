@@ -4,6 +4,7 @@ import audit from "@/data/rent-audit.json";
 import { CARDS, PRESAVED, MOCK_REPLY, Card } from "@/data/cards";
 import { judge, Listing, Verdict, DIVYANSHI } from "@/lib/scout";
 import ScoutWishlist from "./ScoutWishlist";
+import { trustCheck } from "@/lib/trustCheck";
 
 export type Screen = "search" | "results" | "pdp" | "wishlist" | "scout";
 const AUD = audit as unknown as Listing[];
@@ -104,7 +105,7 @@ export default function App({ start = "search" }: { start?: Screen }) {
       <button className={screen === "search" || screen === "results" || screen === "pdp" ? "on" : ""} onClick={() => setScreen(applied ? "results" : "search")}>⌕<span>Search</span></button>
       <button className={screen === "wishlist" || screen === "scout" ? "on" : ""} onClick={() => setScreen("wishlist")} style={{ position: "relative" }}>
         <Heart on={screen === "wishlist" || screen === "scout"} size={18} />
-        {counts.removed + counts.check > 0 && <span className="dot">{counts.removed + counts.check}</span>}
+        {saved.filter((k) => trustCheck(byK(k)).group === "misleading").length > 0 && <span className="dot">{saved.filter((k) => trustCheck(byK(k)).group === "misleading").length}</span>}
         <span>Wishlist</span>
       </button>
       <button onClick={() => setToast({ t: "Not part of this prototype" })}>☰<span>More</span></button>
