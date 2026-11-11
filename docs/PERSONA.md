@@ -15,6 +15,7 @@
 - Grocery store nearby
 - Building with gym, pool and sauna (nice to have)
 - Clean, healthy apartment
+- Prefers a higher floor with a view
 
 ## Budget
 - AED 5,000–7,500/month (company allowance)

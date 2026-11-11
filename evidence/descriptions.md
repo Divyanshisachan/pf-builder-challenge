@@ -41,3 +41,12 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 6. **Size conflicts within the same listing** (#4: 500 vs 550 sqft).
 7. **The true monthly cost can't be computed** from any single listing (DEWA + chiller + VAT + tourism fee + deposit + agency fee).
 8. **Metro distance is never given.**
+
+## #5 Marina (no building), AED 6,990/mo, 500 sqft
+- Agency: OYO Vacation Homes (same as #4); agent rating 3.9 (9). DTCM UAE-DUB-412; broker licence "na".
+- Listed 6+ months ago; available from 11 Sep 2025 (past).
+- Building, floor and view: not stated.
+- ✅ "Bills included" in the title only, with no breakdown · ✅ tourism fee AED 10/**night** on a monthly rental · ✅ "agency fees applicable" with no amount · ✅ AED 200 cleaning fee · holiday/peak surcharges with no amount.
+- ❌ chiller, VAT, deposit, Ejari, minimum stay, photos real/indicative, sauna, metro distance ("next to metro" in the title only).
+- Same misleading "91% less than average" badge (monthly vs annual).
+- **First-timer would miss:** per-night tourism fee × 30 ≈ AED 300/mo extra, plus an agency fee of unknown size, so 6,990 can quietly cross a 7,500 cap.
