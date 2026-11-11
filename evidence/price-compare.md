@@ -22,6 +22,7 @@ Same listed price can hide a very different real cost. ✅ included · ➕ extra
 | 16 | Yacht Bay, Marina | 7,649 (long-term discount, unpriced) | 460 | 16.6 | ✅ DEWA, Wi-Fi | ✅ incl. | ❓ | ❓ | ❓ | ❓ | 12 cheques; maintenance incl. | 7,649 + unknowns (VAT/tourism?) |
 | 17 | Yacht Bay, Marina (15th fl.) | 7,699 (long-term discount, unpriced) | 460 | 16.7 | ✅ DEWA, Wi-Fi (stays < 1 yr) | ✅ incl. | ❓ | ❓ | ❓ | ❓ | 12 cheques; maintenance incl. | 7,699 + unknowns (VAT/tourism?) |
 | 18 | Urban Oasis, BB (same agent as #9, likely a different unit) | 7,700 (current month only) | 426 | 18.1 | ❓ | ❓ | ➕ extra | ➕ AED 10/night, first 30 | ❓ | ➕ refundable, no amount | **7% service charge**; 200 cleaning; short-term only | ~8,925 in month 1 (7,700 + 385 VAT + 539 service + 300 tourism), ~8,625 after |
+| 19 | LIV Residence, Marina (2nd fl.) | 7,819 (long-term discount, unpriced) | 463 | 16.9 | ✅ DEWA, Wi-Fi (stays < 1 yr) | ✅ incl. | ❓ | ❓ | ❓ | ❓ | 12 cheques; maintenance incl. | 7,819 + unknowns (VAT/tourism?) |
 
 ## What the table shows
 - **#1 vs #3:** similar price (5,000 vs 5,500) and size (520 vs 600), but #1 discloses nothing while #3 discloses most items.

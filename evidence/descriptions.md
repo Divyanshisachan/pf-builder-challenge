@@ -160,3 +160,10 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - Water view (tag); kitchen appliances; shared pool; gym/sauna not in the visible amenities.
 - ❌ bills/DEWA, chiller, agency fee, Ejari, metro, photos real/indicative. **Long-term discount: not found in the fetched page** (user recalls one; to verify).
 - **First-timer would miss:** 7,700 listed ≈ **8,925 in month 1**; price can change after month 1.
+
+## #19 LIV Residence, Marina, 2nd floor, AED 7,819/mo, 463 sqft
+- Agency: Colife (3rd Colife listing after #16 and #17, same template); agent Ilnara Muzafiarova, 3.9 (17). DTCM DUB-LIV-IPWKV; licence 1044321. Listed 6 days ago; available 24 Oct 2026. 12 cheques.
+- ✅ DEWA, chiller, Wi-Fi, maintenance included (stays < 1 yr) · ✅ long-term discount (no figure) · ✅ pool, gym, **sauna, steam** · ✅ distances: Marina Walk 2 min, tram walkable, JBR 7–10 min walk, Downtown 20 min / DIFC 18–20 min drive. **Metro not mentioned.**
+- ❌ view, VAT, tourism fee, service charge, agency fee, deposit, cleaning, Ejari, lease type, photos real/indicative.
+- Badge "90% less" again (like-for-like ~25% above).
+- **First-timer would miss:** 2nd floor (low, no view stated); whether VAT/tourism fee apply on top.
