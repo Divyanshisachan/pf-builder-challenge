@@ -5,3 +5,6 @@
 1. **Photos show surroundings, not the unit.** In the first listings reviewed, few images show the actual room or building amenities; most show surrounding scenery/skyline to look luxurious or show location. The searcher can't see what they'd actually live in.
 2. **Recycled / stock unit photos.** Same apartment photos appear across many listings; when contacted, agents send different videos/photos of the real unit. Listings don't always disclose that photos are indicative. (Listing #2)
 3. **Missing trust signals.** Building name not stated in listing; agent has no ratings → hard to trust. (Listing #2)
+4. **Same "area" photos reused across different buildings.** Surrounding-area images in the last 2–3 listings look identical, as if pulled from Google, and don't match the feel of the actual units. (Listings #1–3)
+5. **Photos can't prove location.** Even plausible unit photos don't show the view from window/balcony, so the searcher can't confirm the unit is in the claimed area. (Listing #3)
+6. **Agents without ratings recur.** (Listings #2, #3)
