@@ -207,3 +207,12 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - ➕ **5% VAT + 10% service charge** excluded · ➕ tourism fee AED 10/night, first 30 · ➕ cleaning fee (no amount) · ✅ **deposit AED 1,000 refundable** · daily/weekly also offered; seasonal rates.
 - ❌ lease type, payment schedule, long-term discount, agency fee, bills, Ejari, photos real/indicative.
 - **First-timer would miss:** 7,998 listed ≈ **9,500 in month 1**, ~19% above the headline.
+
+## #25 ⚑ Aykon City Tower C, BB, AED 7,999/mo, 464 sqft
+- Agency: Flamingo Livings Vacation Homes; agent Chafik Alknani, **4.4 (40), SuperAgent** (first SuperAgent in the audit). DTCM 1499444; broker licence N/A; agent licence field "TradeLicense". Listed 6+ months ago; available 21 Apr 2027.
+- **Kitchenette**; infinity pool, gym, spa; no sauna; **no metro**; "short-term stays" language; "Summer Offer" in the title with no details.
+- ✅ "All bills included" · ➕ **5% VAT + 15% service charge + admin fee** · ➕ tourism fee AED 10/night, first 30 · ➕ checkout cleaning fee · ➕ refundable deposit (no amount).
+- ❌ agency fee, payment terms, lease type, ongoing housekeeping, Ejari, photos real/indicative.
+- No building reviews; no rental transactions; 332 active rental listings in the building (range 50k–210k/yr).
+- **First-timer would miss:** 7,999 listed ≈ **9,900 in month 1** (the highest in the audit so far); "all bills included" doesn't mean all-in.
+- **⚑ User's own comparable:** Aykon City Tower A, **4,500/mo all bills incl.**, twice-weekly cleaning, 1,000 agency fee (via Bayut).

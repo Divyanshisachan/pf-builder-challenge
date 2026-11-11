@@ -26,6 +26,7 @@
 | 22 | Marina Diamond 2, Marina | Senthil Raj Subramaniam (same as #15) | Druvya Holiday Homes LLC | 4.3 (8) | DTCM DUB-MAR-O5QIW | 00000 |
 | 23 | Marina View Tower A, Marina | Moahmmed Qayam (same as #5) | OYO Vacation Homes Rental LLC | **3.2 (14)** | **none shown** | na |
 | 24 | MAG 318, BB | Angelique Aguilar | Bespoke Residence and Holiday Homes LLC | 4.2 (9) | DTCM BUS-MAG-UGJ7X | 859534 |
+| 25 | Aykon City Tower C, BB | Chafik Alknani (**SuperAgent** badge) | Flamingo Livings Vacation Homes Rental LLC | 4.4 (40) | DTCM 1499444 | N/A |
 
 ## Patterns
 - **4 agencies across 7 listings**, all holiday-home or vacation-rental operators.
