@@ -38,8 +38,8 @@ export default function App({ start = "search" }: { start?: Screen }) {
   const [screen, setScreen] = useState<Screen>(start);
   const [applied, setApplied] = useState(start !== "search");
   const [sheet, setSheet] = useState<string | null>(null);
-  const [sel, setSel] = useState<Record<string, string>>({ type: "Rent" });
-  const [pending, setPending] = useState<string>("");
+  const [sel, setSel] = useState<Record<string, string[]>>({ type: ["Rent"] });
+  const [pending, setPending] = useState<string[]>([]);
   const [page, setPage] = useState(1);
   const [open, setOpen] = useState<number>(11);
   const [saved, setSaved] = useState<number[]>(start === "wishlist" ? [11, 16, ...PRESAVED] : []);
@@ -93,11 +93,11 @@ export default function App({ start = "search" }: { start?: Screen }) {
         <div className="logo"><i />Property Finder</div>
       </div>
       <div className="bar" style={{ paddingTop: 0 }}>
-        <div className="search" onClick={() => { setPending(sel.loc || ""); setSheet("loc"); }}>⌕ <span style={{ color: sel.loc ? "#1c1c1c" : undefined }}>{sel.loc || "City, community or building"}</span></div>
+        <div className="search" onClick={() => { setPending(sel.loc || []); setSheet("loc"); }}>⌕ <span style={{ color: sel.loc?.length ? "#1c1c1c" : undefined }}>{sel.loc?.length ? sel.loc.join(", ") : "City, community or building"}</span></div>
       </div>
       <div className="chips">
         {FILTERS.map((f) => (
-          <button key={f.id} className={`chip ${sel[f.id] && f.id !== "type" ? "on" : ""}`} onClick={() => { setPending(sel[f.id] || ""); setSheet(f.id); }}>{sel[f.id] || f.label} ▾</button>
+          <button key={f.id} className={`chip ${sel[f.id]?.length && f.id !== "type" ? "on" : ""}`} onClick={() => { setPending(sel[f.id] || []); setSheet(f.id); }}>{sel[f.id]?.length ? sel[f.id].join(", ") : f.label} ▾</button>
         ))}
       </div>
     </div>
@@ -119,13 +119,13 @@ export default function App({ start = "search" }: { start?: Screen }) {
 
   if (screen === "search" || screen === "results") {
     const per = 6;
-    const max = sel.price ? +sel.price.replace(/\D/g, "") : Infinity;
-    const all = CARDS.filter((c) => c.price <= max && (!sel.loc || c.loc.includes(sel.loc)));
+    const max = sel.price?.length ? +sel.price[0].replace(/\D/g, "") : Infinity;
+    const all = CARDS.filter((c) => c.price <= max && (!sel.loc?.length || sel.loc.some((x) => c.loc.includes(x))));
     const list = all.slice((page - 1) * per, page * per);
     body = (
       <>
         {Top}
-        <div className="count"><span><b style={{ color: "#1c1c1c" }}>{sel.loc ? `Properties for rent in ${sel.loc}` : "Properties for rent in Dubai"}</b> · {all.length} results</span><span>Sort: Featured</span></div>
+        <div className="count"><span><b style={{ color: "#1c1c1c" }}>{sel.loc?.length ? `Properties for rent in ${sel.loc.join(" & ")}` : "Properties for rent in Dubai"}</b> · {all.length} results</span><span>Sort: Featured</span></div>
         {all.length === 0 && <p className="note">No listings match. Try a higher price.</p>}
         {list.map((c) => (
           <div className="card" key={c.k}>
@@ -213,10 +213,10 @@ export default function App({ start = "search" }: { start?: Screen }) {
         <div className="sheetbg" onClick={() => setSheet(null)}>
           <div className="sheet" onClick={(e) => e.stopPropagation()}>
             <h3>{f.label}</h3>
-            {f.opts.map((o) => <button key={o} className={`opt ${o === pending ? "on" : ""}`} onClick={() => setPending(o === pending ? "" : o)}>{o}</button>)}
+            {f.opts.map((o) => <button key={o} className={`opt ${pending.includes(o) ? "on" : ""}`} onClick={() => setPending(f.id === "price" || f.id === "type" ? (pending.includes(o) ? [] : [o]) : pending.includes(o) ? pending.filter((x) => x !== o) : [...pending, o])}>{pending.includes(o) ? "✓ " : ""}{o}</button>)}
             {!("wired" in f) && <p className="muted">Prototype: only Location and Price filter the results.</p>}
             <div style={{ display: "flex", gap: 8 }}>
-              <button className="btn ghost" onClick={() => { setSel({ ...sel, [f.id]: f.id === "type" ? "Rent" : "" }); setPage(1); setSheet(null); }}>Reset</button>
+              <button className="btn ghost" onClick={() => { setSel({ ...sel, [f.id]: f.id === "type" ? ["Rent"] : [] }); setPage(1); setSheet(null); }}>Reset</button>
               <button className="btn" onClick={() => { setSel({ ...sel, [f.id]: pending }); setPage(1); setApplied(true); setScreen("results"); setSheet(null); }}>Show results</button>
             </div>
           </div>

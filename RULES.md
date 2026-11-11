@@ -2,30 +2,59 @@
 
 Built from `AUDIT.xlsx` (32 rent + 8 buy live listings, 12 Nov 2026). Examples (#) refer to audit rows.
 
-## v2 changes after testing (see TEST-RESULTS.md: 14/32 → 31/32 agreement with the researcher)
-- **Trust ≠ fit:** budget and kitchen never change the trust label; they decide the short list.
-- **R8 never counts toward removal:** the assistant computes the all-in price instead.
-- **R5 counts only "too cheap"** as a bait signal; "too pricey" is a value note.
-- **R6:** a same-price twin proves the flat exists (cancels R7 photo doubts), not that it's available. A cheaper, older twin counts as staleness, not as a second signal.
-- **R1:** a placeholder agent licence alone is a note. Remove only if the permit AND the licence are missing; a missing permit alone is 🟡.
+## How Scout scores (as built: `src/lib/trustCheck.ts`, matches my 32 verdicts 32/32 in-sample)
+Each listing starts at **100**. Every signal below adds or removes points and shows its plain-language reason. Score **≥ 70 = 🟢 Looks genuine · 40–69 = 🟡 Needs checking · < 40 = 🔴 Likely misleading**.
+
+| Signal (rule) | Points | Example |
+|---|---|---|
+| Price per sqft ≥ 30% below area median (R5) | −30 | #1, #3 |
+| 20–29% below median (R5) | −15 | #4 |
+| 20–39% above median (value) | −10 | #26 |
+| ≥ 40% above median: often a hotel room sold as a studio | −20 | #13 |
+| Listed ≤ 30 days | +5 | #16 |
+| Listed 31–90 days (holiday-home operator: −5) | −10 | #15 |
+| Listed > 90 days (holiday-home operator: −31) (R4) | −35 | #7 |
+| Same unit by another agent at ≤ 2% gap (R6) | +10 | #16/#17, #6/#7 |
+| Same unit dearer in a fresher ad: this cheap one is out of date (R6) | −15 | #14 |
+| Same permit reused in another area (R6) | −15 | #1/#2 |
+| No building named, generic map pin (R9) | −20 | #1, #5 |
+| Other location doubt (R9) | −10 | #11 |
+| Price changed since saved | −15 | #3, #8 |
+| Card price far below the real price for a normal stay (R8) | −30 | #11, #12 |
+| Price valid "current month only" (R8) | −10 | #9 |
+| Fees not priced, so all-in can't be computed (R8) | −10 | #19 |
+| Stated fees add > 15% on top of rent (R8) | −10 | #24, #25 |
+| No valid permit (R1); other portals −15 | −30 | #8, #23 |
+| No permit AND placeholder agent licence (R1) | −20 more | #26 |
+| Photos also appear on other listings (R7); −10 if 2 agents show the same unit | −20 | #2 |
+| Size doubtful (R7) | −15 | #4, #20 |
+| Hotel room sold as a studio (R2) | −20 | #13 |
+| Hotel room, no kitchen, disclosed | −30 | #32 |
+| SuperAgent | +5 | #25 |
+| Agent rating < 3.5 (R11) | −5 | #23, #28 |
+| Building reviews (supporting only) | −5 … +3 | #22 |
+
+**Why fees and "too pricey" do count:** misleading pricing (a headline that isn't the real price) is itself one of the ways a listing misleads. They're weighted low (−10) so they move a listing to 🟡 Needs checking, never to 🔴 on their own. The assistant also computes the all-in month-1 cost so the searcher sees the real number.
+
+**How it evolved:** a first rule-count engine (`src/lib/scout.ts`, used for the agent questions) matched my verdicts 14/32, then 31/32 after fixes (TEST-RESULTS.md). The points model above replaced it for the labels, because weights express "how much" a signal matters, and it matched 32/32. That's **in-sample**: it still needs a blind test on new listings.
 
 ## How it decides
 Every listing gets one of three labels, always **with the reason shown**:
 
 | Label | Meaning | What the user sees |
 |---|---|---|
-| 🔴 **Remove** | Likely fake or misleading | Hidden from the short list; viewable under "Removed (n), why" |
-| 🟡 **Ask first** | Could be fine, but a claim can't be checked on the page | Kept, with a pre-written question the assistant sends the agent |
-| 🟢 **Short list** | No red flags; fits the person | Ranked by all-in price and fit |
+| 🔴 **Likely misleading** | Signals add up to a likely fake or misleading listing | Shown in its own group with the reason; one tap archives them all (never deleted) |
+| 🟡 **Needs checking** | Could be fine, but a claim can't be checked on the page | Kept, with "Ask Scout to verify": a pre-written message to the agent |
+| 🟢 **Looks genuine** | No real red flags | Ranked by score; budget and fit shown separately |
 
 Principles:
 - **Never say "fake".** On the page we can only suspect; the agent conversation confirms (audit finding #69).
-- **One signal alone rarely removes.** Remove needs a hard rule (R1, R2) or 2+ signals.
+- **One signal alone rarely makes a listing "Likely misleading".** It takes a heavy signal (no permit, hotel room as studio) or several together.
 - **Misleading ≠ not for me.** Taste (view, luxury, size) only re-ranks, in the Fit layer at the end.
 
 ---
 
-## A. Rules that REMOVE (likely fake or misleading)
+## A. Rules that make a listing 🔴 Likely misleading
 
 **R1. Can't identify the advertiser**
 - Trigger: no permit shown, permit = "tmp", or placeholder agent licence ("12345", "DriverLicense").
@@ -40,18 +69,18 @@ Principles:
 - Note: #8 Merano was first flagged as a hotel room from its photos, but the user confirmed it **does have a kitchen**, so it doesn't trigger R2. (Photo impressions alone can't fire a 🔴 rule.)
 - Wrong when: the hotel discloses it upfront and the searcher doesn't need a kitchen (Dubizzle #32 says "Hotel room / No kitchen" in its title).
 - Who gets hurt: **the searcher** if kept (she cooks); **an honest hotel** if removed for someone who'd accept it.
-- Mitigation: Remove only when the person's must-haves include a kitchen; otherwise 🟡 with "hotel room" shown on the card.
+- Mitigation: weight it heavily only when the person needs a kitchen; a disclosed hotel room (#32) is 🟡 Needs checking, with "hotel room" shown on the card.
 
 **R3. Two or more 🟡 signals on one listing**
 - Trigger: any 2 of R4–R9 at once.
 - Audit: #1 (too cheap + stale + no building + shared permit), #12 (3 prices + "tmp" + too pricey).
 - Wrong when: the signals pile up but other evidence says the unit is real. #6/#7 (DAMAC Maison Privé) trip **stale + duplicate**, yet the same unit is listed by **two different agents at the same price**, which is evidence the flat exists (it may just be old stock).
 - Who gets hurt: **an honest agent** whose real unit is removed because the ad is old.
-- Mitigation: show it under "Removed, why" with a one-tap "ask the agent anyway".
+- Mitigation: it stays visible in the 🔴 group with Call/WhatsApp, and "Archive" is never a delete.
 
 ---
 
-## B. Rules that mean ASK FIRST (assistant verifies with the agent)
+## B. Rules that mean 🟡 Needs checking (assistant verifies with the agent)
 
 **R4. Stale listing**
 - Trigger: listed more than 90 days ago (more than 180 days counts as 2 signals).
@@ -126,7 +155,7 @@ Principles:
 
 ---
 
-## D. SHORT LIST rules (what earns trust)
+## D. 🟢 Looks genuine, and the short list
 
 A listing goes on the short list only if **all** of these hold:
 1. No 🔴 rule fires.
@@ -181,7 +210,7 @@ The rules above judge **listings**. These govern what the assistant **does**.
 - **H1. Shows why, always.** Every 🔴/🟡 label carries a one-line reason and the evidence. *Example:* "🟡 Listed 31 months ago (#7). Asked agent: still available?"
 - **H2. Separates fact, estimate and unknown.** All-in prices show what's stated, what's estimated and what's unknown. *Example #10:* "7,875 stated (rent + 5% VAT) · DTCM fee and admin fee unknown, asked."
 - **H3. Never says "fake". Says "likely misleading" or "unverified".**
-- **H4. Never hides silently.** Removed listings stay viewable under "Removed (n), why", with a one-tap "ask anyway".
+- **H4. Never hides silently.** Likely-misleading listings stay visible with their reason and Call/WhatsApp; archiving is one tap with Undo, never a delete.
 - **H5. Admits what it can't check.** *Example:* "I can't verify the photos from the page. I've asked for a live video."
 - **H6. No financial or legal advice.** For buyers it computes costs from public fee rules (DLD 4% etc.) and labels them estimates; it suggests a mortgage adviser or lawyer for decisions.
 
@@ -194,6 +223,6 @@ The rules above judge **listings**. These govern what the assistant **does**.
 
 ## J. Feedback loop (what PF gains)
 - **J1. Records the outcome against the listing:** confirmed / different unit / already rented / price higher than stated / no reply.
-- **J2. A contradicted listing moves to 🔴 for everyone**, after repeated reports, not just one.
+- **J2. Contradicted listings are reported to PF moderation; verdicts stay private to each searcher.**
 - **J3. Honest agents get credit.** Fast, consistent answers raise the agent's ranking signal (R11). Fees stated upfront rank above "+? unknown" (R8).
 - **J4. Nothing personal leaves without consent.** The searcher's name and number go to the agent only when she says "connect me".
