@@ -61,3 +61,37 @@ Legend: ✅ ok · ⚠️ doubtful · ❌ problem · Dup = same unit/photos liste
 | User would reach out now | **12/32** (#10, #14–#21, #24, #25, #32) | Driven by taste + clear description + review volume |
 
 **Bottom line:** no listing is clearly fake, but **none is fully trustworthy on its own**. The searcher can't know the real price, whether the photos show the unit, or whether it's still available, without messaging the agent, and that message leaves Property Finder.
+
+
+---
+
+# BUYER AUDIT: 8 live sale listings, 1BR, Business Bay (Property Finder, 12 Nov 2026)
+
+**Why:** the brief requires renter **and** buyer flows. Given time, the buyer audit is smaller and built for persona `docs/PERSONA-BUYER.md` (first-time end-user buyer, ~AED 1.5M, ready, vacant). Checked by Claude from each listing page and description; **not** reviewed by the user, unlike the rent audit.
+**Benchmark:** Business Bay median **AED 2,473/sqft** (DLD, trailing 12 months to 9 Nov 2026, via [Dubai Real Estate Data](https://www.dubairealestatedata.com/areas/business-bay), based on Dubai Land Department open data).
+
+| # | Listing | Building | Price AED | sqft | AED/sqft | Ready / off-plan | Vacant? | Price believable? (vs DLD comps) | Dup? | Other issues | Agent |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| B1 | [PF](https://www.propertyfinder.ae/en/plp/buy/apartment-for-sale-dubai-business-bay-the-edge-the-edge-tower-a-161427611.html) | The Edge Tower A | 1,499,000 | 708 | 2,117 | Off-plan (Q4 2026) | Not stated | ⚠️ below DLD area median 2,473/sqft; no same-building comps | ❌ near-identical to B2 (same agency, same "Tower B" error) | Says Tower B in the description; furnished vs unfurnished conflict; fees not stated | Taym Alame, no ratings · Verified |
+| B2 | [PF](https://www.propertyfinder.ae/en/plp/buy/apartment-for-sale-dubai-business-bay-the-edge-the-edge-tower-a-168798061.html) | The Edge Tower A | 1,495,000 | 714 | 2,093 | Off-plan (Q4 2026) | Not stated | ⚠️ same as B1; "Selling at OP" not explained | ❌ near-identical to B1 | Tower B in the description; furnishing conflict; fees not stated | Ibrahim A. 4.6 (8) · SuperAgent |
+| B3 | [PF](https://www.propertyfinder.ae/en/plp/buy/apartment-for-sale-dubai-business-bay-vyb-171962359.html) | VYB | 1,900,000 | 731 | 2,599 | Resale; readiness not stated | Not stated | ⚠️ only ask prices shown (51 listings 1.2–2.3M), no DLD comps | – | "Available from" date on a resale, unexplained; no service charge | Elmedina V., no ratings · Verified |
+| B4 | [PF](https://www.propertyfinder.ae/en/plp/buy/apartment-for-sale-dubai-business-bay-canal-crown-canal-crown-2-171529029.html) | Canal Crown 2 | 1,998,000 | 833 | 2,398 | Off-plan resale (Q4 2027) | Not stated | ⚠️ no comps; "motivated seller" unsupported | – | Available Nov 2026 but handover Q4 2027; over 1.5M budget | Samer A. 4.9 (8) · SuperAgent |
+| B5 | [PF](https://www.propertyfinder.ae/en/plp/buy/apartment-for-sale-dubai-business-bay-century-tower-167866282.html) | Century Tower | 1,375,000 | 751 | 1,830 | "Ready to move" (delivered Q2 2026) | Not stated | ✅ just below 5 DLD sales (1.38–1.57M); rents 70–80k | – | "Brand-new"/ready vs future date; agency name differs (trade vs legal) | Joe A. 5.0 (6) · SuperAgent |
+| B6 | [PF](https://www.propertyfinder.ae/en/plp/buy/apartment-for-sale-dubai-business-bay-nobles-tower-162796243.html) | Nobles Tower | 1,290,000 | 829 | 1,556 | Ready (delivered 2024) | **Tenanted**, lease end not given | ✅ within DLD sales 1.215–1.44M (latest 1.30M) | – | "New building" vs 2024; can't move in, rent not stated | Bilal C. 4.8 (5) · SuperAgent |
+| B7 | [PF](https://www.propertyfinder.ae/en/plp/buy/apartment-for-sale-dubai-business-bay-churchill-towers-churchill-residency-tower-168357023.html) | Churchill Residency | 1,130,000 | 782 | 1,445 | Ready (resale) | **Tenanted**; "message for rent" | ⚠️ below all 5 DLD sales (1.16–1.415M): bargain or bait? | – | Building reviews: mold/leaks; 5.0 from 2 ratings | James P. 5.0 (2) · SuperAgent |
+| B8 | [PF](https://www.propertyfinder.ae/en/plp/buy/apartment-for-sale-dubai-business-bay-hamilton-residency-166047705.html) | Hamilton Residency | 800,000 | 507 | 1,577 | Ready | Not stated | ✅ within DLD sales 660–980k | – | "1 bed" in the title vs "studio" in the description; "large" at 507 sqft | Robert E. 5.0 (2) · Verified |
+
+## What the buyer audit shows (8 listings)
+| Signal | Count | Why it matters |
+|---|---|---|
+| States DLD 4%, agency 2% or total upfront cash | **0/8** | ~27% of the price in cash is invisible; the "estimated upfront costs" link shows no figures |
+| Shows same-building **DLD sale comps** on the page | 4/8 | The best trust data PF has, but it isn't interpreted ("is this fair?") |
+| Asking price **below every recorded sale** in the building | 1 (B7) | Could be a bargain or bait; needs a question to the agent |
+| Ready vs off-plan / handover unclear or contradictory | 5/8 | "Ready to move" with a future handover; off-plan resale "available" before completion |
+| Tenancy unclear (tenanted with no rent/lease end, or not stated) | **8/8** | An end-user can't tell if he can move in |
+| Near-duplicate listing (same building, same agency, same copy error) | B1/B2 | One unit (or one template) shown as two |
+| Title vs description conflict (Tower A/B, 1BR/studio, furnished/unfurnished) | 4/8 | Copy-paste listings |
+| SuperAgent/5.0 rating from ≤ 8 reviews | 6/8 | Badges look strong, but samples are tiny |
+| **"% vs average" badge correct** (sale vs sale average) | 8/8 | Unlike rent, where 29/30 compare monthly vs annual: **the bug is rent-only** |
+
+**Bottom line (buy):** the buy side has better raw trust data (DLD comps, Verified, SuperAgent) than rent, but the listing never answers the buyer's two real questions: **"How much cash do I need?"** and **"Can I move in, and when?"**
