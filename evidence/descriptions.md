@@ -167,3 +167,12 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - ❌ view, VAT, tourism fee, service charge, agency fee, deposit, cleaning, Ejari, lease type, photos real/indicative.
 - Badge "90% less" again (like-for-like ~25% above).
 - **First-timer would miss:** 2nd floor (low, no view stated); whether VAT/tourism fee apply on top.
+
+## #20 J ONE Tower A, BB, 16th floor, AED 7,829/mo, 686 sqft
+- Agency: Colife (4th Colife listing; same agent as #16, Artem Babinov, 3.8 (104)). DTCM BUS-JO-YLGPB; licence 1044321. Listed 6 days ago; available 9 Nov 2026. 12 cheques. ~30 photos.
+- **16th floor**, balcony, water view (tag), canal 5-min walk; kitchen. **686 sqft = largest studio in the audit.**
+- ✅ DEWA, chiller, Wi-Fi, maintenance included (stays < 1 yr) · ✅ long-term discount (no figure) · pool, gym; **no sauna**.
+- Distances by car only: **Business Bay metro 5 min drive**, Downtown 5, DIFC 10, DXB 20.
+- ❌ VAT, tourism fee, service charge, agency fee, deposit, cleaning, Ejari, lease type, photos real/indicative.
+- Badge "89% less" again (like-for-like ~32% above).
+- **First-timer would miss:** the metro is a drive, not a walk; whether VAT/tourism fee apply on top.

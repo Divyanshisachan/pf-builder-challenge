@@ -43,3 +43,6 @@
 39. **Distances in the description are a plus.** #17 lists walk/drive times to metro and landmarks (DMCC metro 6–8 min walk, Marina Mall 8–10, JBR 10–12, Downtown 20–22 min drive). Exactly what a newcomer who doesn't know the city needs. (Listing #17)
 40. **One agency, same template, many units.** Colife's #16 and #17 share the description wording ("discounted for long-term", bills included) and the same building with different agents. Useful for comparing offers, confusing for tracking. (Listings #16, #17)
 41. **Looks drive the "like".** She liked #18 mainly for how the apartment looks. Visual taste (luxury, view) is a primary filter that no search filter captures. (Listing #18)
+42. **🔑 Her agent-trust rule:** many reviews + rating just under 4 (3.8–3.9) = trust. Few reviews (e.g. 4) + rating under 4 = apprehensive. Volume of reviews beats the score. (Listing #20; see also #32)
+43. **Fallback when unsure: ask for real videos.** After many listings, when photos are ambiguous (room vs area mismatch, room looks small), she'd simply ask the agent for actual videos of the unit. (Listing #20)
+44. **Photo size perception can mislead.** #20 looked small in photos, yet it's 686 sqft, the largest studio so far. Photos alone don't convey size. (Listing #20)
