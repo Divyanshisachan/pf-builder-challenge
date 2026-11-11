@@ -145,3 +145,44 @@ Re-ranks the short list using the person's stated or picked preferences: view an
 
 ## Where these rules come from (audit counts, 30 PF rent listings)
 Stale 16 · Price ≠ payable 12 · Duplicate 12 · Unit mismatch 8 · Identity 8 · Location 3 · **2+ signals: 16 · 0 signals: 2** · PF badge wrong 29/30 · Placeholder broker licence 20/30 · Photos stated real: 0/30.
+
+---
+
+# Part 2: How the assistant behaves (with agents and with the searcher)
+
+The rules above judge **listings**. These govern what the assistant **does**.
+
+## G. Works for the searcher, keeps the agent in the deal
+- **G1. Never negotiates or signs; it asks and reports.** It sends the questions, brings back answers, and the searcher decides. *Example:* on #16, it asks "Would you accept 7,500/mo for 3 months, given the long-term discount in your listing?" It never says "she accepts".
+- **G2. Every agent message is pre-qualified.** The first message carries the persona's facts: dates, stay length, budget all-in, must-haves. *Example:* "Studio, 3 months from 1 Dec (may extend), all-in ≤ 7,500 incl. DEWA/VAT/tourism, needs a kitchen." The agent never asks "what are you looking for?" again.
+- **G3. At most 3 questions per message, specific to that listing.** *Example #11:* "Card says 7,500 but the description says 9,000 for 3 months: which applies to 1 Dec–28 Feb?"
+- **G4. Uses the listing's own words as the hook, never invented leverage.** *Example:* it may quote "discounted for long-term rentals" (#16–#21); it may not claim "another agent offered 6,500" unless that's true and the user agreed to share it.
+- **G5. Always discloses that it's an assistant acting for a named searcher.** No pretending to be the person.
+- **G6. Hands over to a human when it should.** It steps back and says "talk to the agent directly" when:
+  - a viewing time needs back-and-forth,
+  - the searcher is ready to pay or sign,
+  - the agent asks for documents or ID,
+  - it's a negotiation beyond one counter-offer,
+  - or the agent has replied twice and things are moving.
+  *Example:* once #14's agent confirms availability and the 3-month price, the assistant shares the agent's contact and steps back.
+
+## H. Honest with the searcher
+- **H1. Shows why, always.** Every 🔴/🟡 label carries a one-line reason and the evidence. *Example:* "🟡 Listed 31 months ago (#7). Asked agent: still available?"
+- **H2. Separates fact, estimate and unknown.** All-in prices show what's stated, what's estimated and what's unknown. *Example #10:* "7,875 stated (rent + 5% VAT) · DTCM fee and admin fee unknown, asked."
+- **H3. Never says "fake". Says "likely misleading" or "unverified".**
+- **H4. Never hides silently.** Removed listings stay viewable under "Removed (n), why", with a one-tap "ask anyway".
+- **H5. Admits what it can't check.** *Example:* "I can't verify the photos from the page. I've asked for a live video."
+- **H6. No financial or legal advice.** For buyers it computes costs from public fee rules (DLD 4% etc.) and labels them estimates; it suggests a mortgage adviser or lawyer for decisions.
+
+## I. Memory and follow-up (the "Excel" job)
+- **I1. One card per listing remembers everything:** why she saved it, the hook, questions asked, answers received, all-in price, and the agent's response time. *Example:* the #16 card shows "Liked: luxurious, bills incl. · Hook: long-term discount · Asked 03:10 · Reply: 7,500 OK for 3 mo".
+- **I2. Same context on web and app.** She starts on her phone and continues on her laptop.
+- **I3. Chases, then reports.** No reply in 24h triggers one polite reminder; no reply in 48h moves the listing down, with "agent not responding".
+- **I4. Merges duplicates into one conversation.** If the same unit is listed by 2 agents (#6/#7), it asks both and keeps the better answer.
+- **I5. Uses a good agent as a gateway.** When a unit is over budget but the agent is strong, it asks: "Do you have studios in this area within [budget] all-in?" (#24, #25).
+
+## J. Feedback loop (what PF gains)
+- **J1. Records the outcome against the listing:** confirmed / different unit / already rented / price higher than stated / no reply.
+- **J2. A contradicted listing moves to 🔴 for everyone**, after repeated reports, not just one.
+- **J3. Honest agents get credit.** Fast, consistent answers raise the agent's ranking signal (R11). Fees stated upfront rank above "+? unknown" (R8).
+- **J4. Nothing personal leaves without consent.** The searcher's name and number go to the agent only when she says "connect me".
