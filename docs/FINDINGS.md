@@ -59,3 +59,5 @@
 47. **🔑 Fewer, better listings.** "Rather than showing me 100 listings, just show me 25 I'd actually be interested in."
 48. **🔑 PF doesn't ask what she wants.** Like a good salesperson, it should first understand the user. Today it's filters, and even after filtering she reads every description to work out what she likes.
 49. **She hasn't come across Scout on Property Finder yet.** Discoverability problem: the assistant isn't visible where she's searching.
+50. **🔑 Cost surprises have real consequences for her persona.** She once got manager approval for an accommodation amount, paid, and the true total exceeded it; her company asked why. A calculator plus a documented, shareable cost breakdown would have prevented this. Company-sponsored renters need an **approvable all-in number**. (Listing #22, personal experience)
+51. **Price vs quality mismatch again.** #22 is priced high (7,900) with plain photos; building reviews 3.3 (10) mention old facilities, a poorly kept gym/pool, and leaks. (Listing #22)

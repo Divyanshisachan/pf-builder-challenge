@@ -45,5 +45,6 @@
 - Doesn't know Dubai's hidden costs, so a listed price can be misleading
 - Fears being scammed
 - Past experience (India): security deposit never returned
+- **Past experience: miscalculated the total accommodation cost.** Got her manager's approval for an amount, paid, and the real total exceeded it; the company asked her why. Needs a **documented, approvable all-in cost** before committing
 - Safety concerns as a woman living alone
 - No personal references to rely on

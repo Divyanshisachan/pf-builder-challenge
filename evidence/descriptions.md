@@ -184,3 +184,11 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - Distances: canal 2–3 min walk; **Business Bay metro 7–10 min drive**; Downtown 5–7 min drive.
 - ❌ VAT, tourism fee, service charge, agency fee, deposit, cleaning, Ejari, lease type, photos real/indicative.
 - **First-timer would miss:** a kitchenette, not a kitchen; the metro is a drive; whether VAT/tourism fee apply.
+
+## #22 Marina Diamond 2, AED 7,900/mo, 485 sqft
+- Agency: Druvya Holiday Homes (same agent as #15, Senthil Raj Subramaniam, 4.3 (8)). DTCM DUB-MAR-O5QIW; broker licence "00000". **Listed 6+ months ago; available from 24 Dec 2025 (stale).** 37 photos.
+- ✅ full kitchen · ✅ **deposit AED 1,500 refundable** · ✅ metro 5-min walk · ➕ agency fee "applicable", **no amount**.
+- ⚠️ Rate is for the **current month only**; later months seasonal, "higher or same" (same template as #15).
+- ❌ lease type, bills, VAT, tourism fee, service charge, cleaning, Ejari, floor, photos real/indicative.
+- **Building reviews 3.3 (10):** old facilities, poorly maintained gym/pool, leakage.
+- **First-timer would miss:** month 2+ may cost more; agency fee unknown; the building has maintenance complaints.

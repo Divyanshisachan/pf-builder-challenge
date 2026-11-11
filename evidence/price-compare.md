@@ -25,6 +25,7 @@ Same listed price can hide a very different real cost. ✅ included · ➕ extra
 | 19 | LIV Residence, Marina (2nd fl.) | 7,819 (long-term discount, unpriced) | 463 | 16.9 | ✅ DEWA, Wi-Fi (stays < 1 yr) | ✅ incl. | ❓ | ❓ | ❓ | ❓ | 12 cheques; maintenance incl. | 7,819 + unknowns (VAT/tourism?) |
 | 20 | J ONE Tower A, BB (16th fl.) | 7,829 (long-term discount, unpriced) | 686 | 11.4 | ✅ DEWA, Wi-Fi (stays < 1 yr) | ✅ incl. | ❓ | ❓ | ❓ | ❓ | 12 cheques; maintenance incl. | 7,829 + unknowns (VAT/tourism?) |
 | 21 | J ONE Tower A, BB (13th fl.) | 7,829 (long-term discount, unpriced) | 571 | 13.7 | ✅ DEWA, Wi-Fi (stays < 1 yr) | ✅ incl. | ❓ | ❓ | ❓ | ❓ | 12 cheques; maintenance incl. | 7,829 + unknowns (VAT/tourism?) |
+| 22 | Marina Diamond 2, Marina | 7,900 (current month only; later months "higher or same") | 485 | 16.3 | ❓ | ❓ | ❓ | ❓ | ➕ applicable, no amount | ➕ 1,500 refundable | Seasonal rates after month 1 | 7,900 + agency fee + unknowns |
 
 ## What the table shows
 - **#1 vs #3:** similar price (5,000 vs 5,500) and size (520 vs 600), but #1 discloses nothing while #3 discloses most items.
