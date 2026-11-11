@@ -58,6 +58,6 @@ Legend: ✅ ok · ⚠️ doubtful · ❌ problem · Dup = same unit/photos liste
 | Listed 6+ months ago | **14/30** | Likely stale or "evergreen" bait |
 | Same unit listed twice / recycled photo set / shared permit | #6=#7 · #2/#6/#7 photos · #1/#2 permit | One "choice" is really one unit |
 | Same building + size, different price | #14 vs #28 (7,000 vs 7,999) | Searcher can't see it side by side |
-| User would reach out now | **12/32** (#10, 14–21 except 18 is "check out", 24, 25, 32) | Driven by taste + clear description + review volume |
+| User would reach out now | **12/32** (#10, #14–#21, #24, #25, #32) | Driven by taste + clear description + review volume |
 
 **Bottom line:** no listing is clearly fake, but **none is fully trustworthy on its own**. The searcher can't know the real price, whether the photos show the unit, or whether it's still available, without messaging the agent, and that message leaves Property Finder.
