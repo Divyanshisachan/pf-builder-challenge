@@ -26,6 +26,7 @@ Same listed price can hide a very different real cost. ✅ included · ➕ extra
 | 20 | J ONE Tower A, BB (16th fl.) | 7,829 (long-term discount, unpriced) | 686 | 11.4 | ✅ DEWA, Wi-Fi (stays < 1 yr) | ✅ incl. | ❓ | ❓ | ❓ | ❓ | 12 cheques; maintenance incl. | 7,829 + unknowns (VAT/tourism?) |
 | 21 | J ONE Tower A, BB (13th fl.) | 7,829 (long-term discount, unpriced) | 571 | 13.7 | ✅ DEWA, Wi-Fi (stays < 1 yr) | ✅ incl. | ❓ | ❓ | ❓ | ❓ | 12 cheques; maintenance incl. | 7,829 + unknowns (VAT/tourism?) |
 | 22 | Marina Diamond 2, Marina | 7,900 (current month only; later months "higher or same") | 485 | 16.3 | ❓ | ❓ | ❓ | ❓ | ➕ applicable, no amount | ➕ 1,500 refundable | Seasonal rates after month 1 | 7,900 + agency fee + unknowns |
+| 23 | Marina View Tower A, Marina | 7,990 | 550 | 14.5 | ❓ | ❓ | ❓ | ➕ AED 10/night ≈ 300 | ➕ applicable, no amount | ❓ | 200 cleaning; holiday/peak surcharges | ~8,290 + agency fee |
 
 ## What the table shows
 - **#1 vs #3:** similar price (5,000 vs 5,500) and size (520 vs 600), but #1 discloses nothing while #3 discloses most items.

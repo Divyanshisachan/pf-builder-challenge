@@ -61,3 +61,4 @@
 49. **She hasn't come across Scout on Property Finder yet.** Discoverability problem: the assistant isn't visible where she's searching.
 50. **🔑 Cost surprises have real consequences for her persona.** She once got manager approval for an accommodation amount, paid, and the true total exceeded it; her company asked why. A calculator plus a documented, shareable cost breakdown would have prevented this. Company-sponsored renters need an **approvable all-in number**. (Listing #22, personal experience)
 51. **Price vs quality mismatch again.** #22 is priced high (7,900) with plain photos; building reviews 3.3 (10) mention old facilities, a poorly kept gym/pool, and leaks. (Listing #22)
+52. **Price is a gate before trust.** For a modest studio she'd accept a weaker agent if the price were lower; at 7,990 she won't contact at all. Price-vs-quality decides whether the agent even gets a message. (Listing #23)

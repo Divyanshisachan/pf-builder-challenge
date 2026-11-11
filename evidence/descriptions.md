@@ -192,3 +192,11 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - ❌ lease type, bills, VAT, tourism fee, service charge, cleaning, Ejari, floor, photos real/indicative.
 - **Building reviews 3.3 (10):** old facilities, poorly maintained gym/pool, leakage.
 - **First-timer would miss:** month 2+ may cost more; agency fee unknown; the building has maintenance complaints.
+
+## #23 Marina View Tower A, AED 7,990/mo, 550 sqft
+- Agency: OYO Vacation Homes (same agent as #5, Moahmmed Qayam, **3.2 (14)**). **No permit shown**; broker licence "na". Listed 1 month ago; available 13 Sep 2026. 45 photos.
+- Same OYO template as #4/#5: ➕ AED 10/night tourism fee, AED 200 cleaning, agency fee "applicable" (no amount), holiday/peak surcharges. Serviced-homestay language (check-in/check-out).
+- ❌ lease type, bills, VAT, service charge, deposit, payment schedule, Ejari, floor, photos real/indicative.
+- Metro ~5 min (reviews). Building reviews 3.5 (7): thin walls, window noise, parking 2.7.
+- Size 550 sqft vs sold studios in the building ~418 sqft (check).
+- **First-timer would miss:** ≈ 8,290 + agency fee; no permit number on the listing.
