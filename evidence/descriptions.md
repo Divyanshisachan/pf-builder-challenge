@@ -249,3 +249,11 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - ✅ **All utilities incl. (DEWA, Wi-Fi)** · ✅ no commission · ➕ 5% VAT · ➕ cleaning (no amount) · holiday/peak surcharges.
 - ❌ lease type, payment schedule, tourism fee, service charge, deposit, Ejari, photos real/indicative; homestay language ("guest", check-in/out).
 - **First-timer would miss:** ≈ 8,400 + cleaning; the availability date is 2.5 years old.
+
+## #31 (Bayut) Terraces Marasi Drive, BB, AED 6,999/mo, 470 sqft, hotel apartment
+- Agency: Lumera Escape Holiday Home Rental; agent Janvi Goswami ("Responsive Broker"; **no TruBroker**). **Regulatory section empty, so no permit.** Added 30 Jul 2026; bookings from Oct 2026; **minimum stay 1 month**. 8 photos.
+- ✅ Electricity, water, Wi-Fi, parking, pool, gym, **sauna, steam**, maintenance, **housekeeping twice a week** included · daily/weekly/monthly/yearly options · hotel dining/laundry discounts.
+- ➕ Named with no amounts: refundable deposit, tourism dirham, service fee, VAT.
+- ⚠️ **"Images are for illustrative purposes only"**, the only listing in the audit that discloses this.
+- ❌ building name, floor, view, kitchen, agency fee, Ejari, metro distance ("a few minutes").
+- Bayut shows "Validated information" ticks and transaction/TruEstimate sections, but no TruCheck or TruEstimate value for this unit.

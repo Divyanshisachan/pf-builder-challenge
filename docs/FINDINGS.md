@@ -71,3 +71,4 @@
 59. **🔑 Ranking within the "save" bucket.** She already orders her last-resort list: #29 first, #28 at the very end. Saved ≠ equal. (Listings #27–29)
 60. **🔑 Explicit ask: compute the monthly end price and keep a final list.** Rent + agency fee + taxes + DEWA etc. → true monthly cost, plus one consolidated list after going through all the descriptions. (Listing #29)
 61. **No hook = no reason to reach out.** When the description offers nothing (no discount, no flexible terms), she reads it as "no room to negotiate" and parks the listing, even with a good agent. (Listing #30; see #34)
+62. **Cross-check on Bayut: same pattern.** The Bayut listing names its extras (deposit, tourism dirham, service fee, VAT) but gives **no amounts**, and its regulatory/permit section is **empty**. It is the **only listing in the audit that states photos are "illustrative"**. The trust gap isn't PF-specific; it's market-wide. (Listing #31, Bayut)
