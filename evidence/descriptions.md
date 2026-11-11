@@ -138,3 +138,11 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - Building reviews 4.2 (8): dated amenities, maintenance 3.8, road noise on the Sheikh Zayed Road side (matches the user's "building not that good").
 - Badge "91% less" again; like-for-like ~12% above average.
 - **First-timer would miss:** month 2+ can cost more; agency fee unknown; road-facing units are noisy.
+
+## #16 Yacht Bay, Marina, AED 7,649/mo, 460 sqft
+- Agency: Colife Vacation Homes (229 listings); agent Artem Babinov, 3.8 (**104**). DTCM DUB-YAC-QZL25; broker licence 1044321 (real-looking). Listed 6 days ago; available 7 Nov 2026. 12 cheques. 38 photos.
+- **5th floor**; view not stated; full kitchen; pool and gym; sauna/jacuzzi only in reviews; **Marina metro 5-min walk**.
+- ✅ **DEWA, chiller, Wi-Fi, maintenance included** (for stays under a year) · ✅ "price discounted for long-term rentals" (**no figure** → negotiation hook).
+- ❌ VAT, tourism fee, service charge, agency fee, deposit, cleaning, Ejari, minimum stay, photos real/indicative.
+- Badge "90% less" again (like-for-like ~22% above). Building reviews 4.4 (7), mostly 5–11 years old; gym described as "small".
+- **First-timer would miss:** whether VAT/tourism fee apply on top; that the discount is unspecified until negotiated.

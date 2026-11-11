@@ -27,6 +27,13 @@
 - Gym 4×/week
 - Wants a comfortable daily routine and an easy commute
 
+## How she searches (from scouting)
+- Searching **from India**, wants to **finalise the flat before landing** in Dubai
+- UAE agents often **don't pick up calls from Indian numbers** (they suspect scams)
+- WhatsApp calls don't work in the UAE, so it's **WhatsApp text only**
+- Talks to ~10 agents in parallel and loses track of which property, which agent, what was discussed
+- Without a tool she'd keep an **Excel**: link, agent, advantages/"hooks", what to discuss, past discussion; clunky on a phone, on the go
+
 ## Goals
 - Find a trusted studio in her budget, in time
 - Get connected with the right, genuine agents

@@ -33,3 +33,10 @@
 29. **Wants a cost calculator.** Descriptions list 5% this, 7% that; she wants to calculate the real total without doing the maths herself. (Listing #13)
 30. **Multi-month discounts exist but aren't priced.** #14 mentions special rates for 2–12 months but doesn't say how much, so she'd contact the agent to learn the 3-month price. (Listing #14)
 31. **She grades listings A/B.** At the same price she expects more luxury; #15 is "B": acceptable fallback, not first choice. A good agent rating can push her to inquire despite a thin description. (Listing #15)
+32. **Rating count matters as much as the score.** 3.8 from 104 ratings feels more trustworthy than 4.5 from 2. (Listing #16 vs #1/#2)
+33. **"All bills incl. (DEWA, chiller)" removes budget anxiety.** (Listing #16)
+34. **Negotiation hooks hide in descriptions.** "Discounted for long-term" is a lever to get 7,650 → 7,500, but only if she remembers it when chatting. (Listings #14, #16)
+35. **🔑 Losing track after ~15 listings.** Her mind gets foggy about which she liked, why, and what each description said. (Listing #16)
+36. **🔑 The conversation happens off Property Finder.** From India: agents ignore Indian numbers (suspect scams); WhatsApp calls are blocked in the UAE, so it's text only. With ~10 agents on WhatsApp she can't tell which property or agent is which or what was discussed.
+37. **🔑 Her workaround is an Excel tracker** (link, agent, advantages/hooks, what to discuss, past discussion), but it's outside PF and clunky on a phone on the go. Mid-chat she must reopen the PF link, re-read the description, and often forgets the hook.
+38. **What she wishes existed:** per-listing memory of *why she picked it*, *what to discuss*, and *the hook for her case*, available while talking to each agent.
