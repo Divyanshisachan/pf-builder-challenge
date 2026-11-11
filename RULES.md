@@ -29,7 +29,8 @@ Principles:
 
 **R2. The unit type contradicts the listing**
 - Trigger: listed as Apartment/Studio, but the description says hotel room / no kitchen; or "1 bed" in the title vs "studio" in the text.
-- Audit: #8 Merano, #13 Grand Millennium (hotel rooms as studios); B8 Hamilton (1BR vs studio).
+- Audit: #13 Grand Millennium (listed as Apartment/Studio; its description says it is a hotel "Superior Room" with **no kitchen or kitchenette**); B8 Hamilton (title "1 bed", description "studio").
+- Note: #8 Merano was first flagged as a hotel room from its photos, but the user confirmed it **does have a kitchen**, so it doesn't trigger R2. (Photo impressions alone can't fire a 🔴 rule.)
 - Wrong when: the hotel discloses it upfront and the searcher doesn't need a kitchen (Dubizzle #32 says "Hotel room / No kitchen" in its title).
 - Who gets hurt: **the searcher** if kept (she cooks); **an honest hotel** if removed for someone who'd accept it.
 - Mitigation: Remove only when the person's must-haves include a kitchen; otherwise 🟡 with "hotel room" shown on the card.
@@ -37,8 +38,8 @@ Principles:
 **R3. Two or more 🟡 signals on one listing**
 - Trigger: any 2 of R4–R9 at once.
 - Audit: #1 (too cheap + stale + no building + shared permit), #12 (3 prices + "tmp" + too pricey).
-- Wrong when: an older but genuine unit with honest quirks (#30 AG Tower: stale + slightly cheap, yet a real, spacious unit).
-- Who gets hurt: **an honest agent** who simply never refreshed the ad.
+- Wrong when: the signals pile up but other evidence says the unit is real. #6/#7 (DAMAC Maison Privé) trip **stale + duplicate**, yet the same unit is listed by **two different agents at the same price**, which is evidence the flat exists (it may just be old stock).
+- Who gets hurt: **an honest agent** whose real unit is removed because the ad is old.
 - Mitigation: show it under "Removed, why" with a one-tap "ask the agent anyway".
 
 ---
@@ -49,7 +50,7 @@ Principles:
 - Trigger: listed more than 90 days ago (more than 180 days counts as 2 signals).
 - Audit: 16/30 stale; #7 is 31 months old; #30 has been "available from" May 2024.
 - Ask: "Is this exact unit available for [dates]? Please confirm today."
-- Wrong when: serviced holiday-home units really are re-let month after month, so an old ad can still be live (#6/#7 same unit, 2 agents, same price).
+- Wrong when: the unit is old stock but still free. **Hypothesis, not verified:** 29/30 listings are holiday-home operators renting the same unit month to month (#9/#18 say the rate applies to "the current month only"). So one ad can stay up for years while the unit is re-let each month, and age alone doesn't prove it's gone. Only the agent's answer can tell.
 - Who gets hurt: **an honest operator** of evergreen stock.
 
 **R5. Price far from comparable units**
@@ -74,7 +75,9 @@ Principles:
 - Trigger: size conflict inside the listing; a photo set seen on other listings; a cover photo that isn't the unit (lobby, skyline); size vs photos look inconsistent.
 - Audit: #4 (500 vs 550 sqft), #2/#6/#7 (recycled set), #13 (reception cover), #20.
 - Ask: "Please send a live video of this unit and the floor plan."
-- Wrong when: off-plan or new buildings legitimately use developer show-unit photos; a size conflict is just a typo.
+- Wrong when:
+  - (a) **Off-plan (buy):** the unit isn't built yet, so photos are necessarily developer renders or a show flat (B1/B2 The Edge, handover Q4 2026). "Photos ≠ unit" is normal there, not deceit.
+  - (b) **Typo:** #4 Oval Tower says 500 sqft in the title and 550 in the details. Probably a data-entry slip, but the 50 sqft changes the AED/sqft verdict (R5), so the assistant asks for the floor plan rather than removing it.
 - Who gets hurt: **an honest agent** with a typo or developer photos.
 
 **R8. The headline price isn't the price**
@@ -93,6 +96,7 @@ Principles:
 - Who gets hurt: **the searcher** if kept without checking.
 
 **R10. Buyer only: status unclear**
+- Why it matters: a buyer who wants to **live in** the flat needs two facts the card doesn't show: **when** he gets the keys (ready now vs a future handover) and **whether someone lives there** (a tenant with a lease he must honour).
 - Trigger: ready vs off-plan conflict ("ready to move" with a future handover); tenanted without rent or lease end; no tenancy status at all.
 - Audit: 8/8 unclear on tenancy; B4 "available" before its 2027 handover; B5 "brand-new and ready" with a Q2 2026 date.
 - Ask: "Vacant on transfer? If tenanted: rent, lease end, notice served? Handover date?"
