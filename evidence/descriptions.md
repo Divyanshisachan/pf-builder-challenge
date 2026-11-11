@@ -223,3 +223,9 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - ❌ lease type, bills, agency fee, Ejari, floor, view, metro ("highway access" instead), photos real/indicative.
 - Like-for-like **~35% above** average (badge says "89% less").
 - **First-timer would miss:** ≈ 8,800 + DTCM fee; no permit on the listing.
+
+## #27 Regalia by Deyaar, BB, AED 7,999/mo, 434 sqft
+- Agency: JSR Global (5th JSR; same agent as #6/#8/#26, Mohammed Hassan, 3.9 (7)). DTCM BUS-REG-BB9OE; agent licence "12345". Listed 5 days ago; available 6 Nov 2026. 39 photos.
+- "Brand-new" studio (project delivered Q4 2024); landmark view tag; kitchen; pool, gym; no sauna; **no metro** (roads only). 709 active rental listings in the building.
+- ❌ **Nothing on fees or terms**: lease type, payment, bills, VAT, tourism, service charge, agency fee, deposit, cleaning, Ejari, photos real/indicative. Even less than the agent's other listings (#6/#26 disclose VAT + service charge).
+- **First-timer would miss:** the same agent's other listings add VAT and a service charge, so expect them here too.

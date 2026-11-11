@@ -21,6 +21,7 @@
 ## Budget
 - AED 5,000–7,500/month (company allowance)
 - Must be **all-in**: electricity, DEWA, tourism tax, 5% VAT, agency fee, and any other charges
+- May have to **raise her budget** if it's peak season and prices are up
 - Example: a 5,000 listing that ends at 6,000–6,500 is fine; a 7,000 listing that crosses 7,500 after extras is not
 
 ## Lifestyle
