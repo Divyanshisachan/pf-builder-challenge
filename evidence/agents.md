@@ -27,6 +27,7 @@
 | 23 | Marina View Tower A, Marina | Moahmmed Qayam (same as #5) | OYO Vacation Homes Rental LLC | **3.2 (14)** | **none shown** | na |
 | 24 | MAG 318, BB | Angelique Aguilar | Bespoke Residence and Holiday Homes LLC | 4.2 (9) | DTCM BUS-MAG-UGJ7X | 859534 |
 | 25 | Aykon City Tower C, BB | Chafik Alknani (**SuperAgent** badge) | Flamingo Livings Vacation Homes Rental LLC | 4.4 (40) | DTCM 1499444 | N/A |
+| 26 | DAMAC Majestine, BB | Mohammed Hassan (same as #6, #8) | JSR Global Vacation Home Rentals LLC | 3.9 (7) | none shown | – (agent licence "12345") |
 
 ## Patterns
 - **4 agencies across 7 listings**, all holiday-home or vacation-rental operators.

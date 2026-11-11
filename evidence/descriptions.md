@@ -216,3 +216,10 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - No building reviews; no rental transactions; 332 active rental listings in the building (range 50k–210k/yr).
 - **First-timer would miss:** 7,999 listed ≈ **9,900 in month 1** (the highest in the audit so far); "all bills included" doesn't mean all-in.
 - **⚑ User's own comparable:** Aykon City Tower A, **4,500/mo all bills incl.**, twice-weekly cleaning, 1,000 agency fee (via Bayut).
+
+## #26 DAMAC Majestine, BB, AED 7,999/mo, 400 sqft
+- Agency: JSR Global (4th JSR listing; same agent as #6 and #8, Mohammed Hassan, 3.9 (7)). **No permit shown**; agent licence "12345"; broker licence "-". Listed 2 days ago; available 11 Nov 2026. 24 photos.
+- Same JSR template as #6/#7: ➕ 5% VAT, 5% service charge, DTCM fee, deposit (no amounts); weekend/event/holiday rates; housekeeping on demand at extra cost. "Summer Offer" with no terms.
+- ❌ lease type, bills, agency fee, Ejari, floor, view, metro ("highway access" instead), photos real/indicative.
+- Like-for-like **~35% above** average (badge says "89% less").
+- **First-timer would miss:** ≈ 8,800 + DTCM fee; no permit on the listing.
