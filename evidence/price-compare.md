@@ -35,6 +35,7 @@ Same listed price can hide a very different real cost. ✅ included · ➕ extra
 | 29 | MAG 318, BB (same building as #24) | 7,999 ("discounted", no original shown) | 444 | 18.0 | ❓ | ❓ | ➕ extra | ➕ DTCM fee, no amount | ❓ | ➕ required, no amount | **10% service charge**; weekend/holiday rates; housekeeping extra; 12 cheques | **~9,200 + DTCM fee** (7,999 + 400 VAT + 800 service) |
 | 30 | AG Tower, BB | 7,999 | 528 | 15.1 | ✅ all utilities, DEWA, Wi-Fi | ❓ | ➕ extra | ❓ | ✅ "no commission" | ❓ | Cleaning fee (no amount); holiday/peak surcharges | ~8,400 + cleaning |
 | 31 (Bayut) | Terraces Marasi Drive, BB (hotel apt) | 6,999 | 470 | 14.9 | ✅ electricity + water, Wi-Fi | ❓ | ➕ extra | ➕ tourism dirham, no amount | ❓ | ➕ refundable, no amount | Service fee (no amount); twice-weekly housekeeping + parking incl.; min. 1 month | ~7,350 + tourism + service fee |
+| 32 (Dubizzle) | Canal Bay, BB (**hotel room, no kitchen**) | 4,889 (1-month min.; 3/6/12-mo rates on request) | 360 | 13.6 | ✅ electricity, water, Wi-Fi | ❓ | ➕ extra | ➕ TDF, no amount | ❓ | ➕ refundable, no amount | ➕ municipality + service charges (no amounts); free housekeeping; free parking | 4,889 + VAT + TDF + municipality + service (likely ~5,800–6,000 if the 10% service + 7% municipality + 5% VAT pattern of #13 applies) |
 
 ## What the table shows
 - **#1 vs #3:** similar price (5,000 vs 5,500) and size (520 vs 600), but #1 discloses nothing while #3 discloses most items.

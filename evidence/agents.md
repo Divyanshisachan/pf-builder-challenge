@@ -33,6 +33,7 @@
 | 29 | MAG 318, BB | Mohammed Hassan (same as #6, #8, #26, #27) | JSR Global Vacation Home Rentals LLC | 3.9 (7) | DTCM BUS-MAG-ED95O | – (agent licence "12345") |
 | 30 | AG Tower, BB | Aishwarya Kumari (same as #4) | OYO Vacation Homes Rental LLC | 4.3 (12) | DTCM UAE-DUB-461 | na |
 | 31 (Bayut) | Terraces Marasi Drive, BB | Janvi Goswami ("Responsive Broker" badge) | Lumera Escape Holiday Home Rental | – | **Regulatory section empty** | – |
+| 32 (Dubizzle) | Canal Bay, BB | Ankita Sarkar | Lets Stay Holiday Homes Rental LLC | – | Licence 822030 | – |
 
 ## Patterns
 - **4 agencies across 7 listings**, all holiday-home or vacation-rental operators.

@@ -257,3 +257,12 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - ⚠️ **"Images are for illustrative purposes only"**, the only listing in the audit that discloses this.
 - ❌ building name, floor, view, kitchen, agency fee, Ejari, metro distance ("a few minutes").
 - Bayut shows "Validated information" ticks and transaction/TruEstimate sections, but no TruCheck or TruEstimate value for this unit.
+
+## #32 (Dubizzle) Canal Bay, BB, AED 4,889/mo, 360 sqft
+- Lets Stay Holiday Homes; agent Ankita Sarkar; licence 822030. Posted 4 Nov 2026, updated 11 Nov. 9 photos.
+- ⚠️ **Title: "Hotel room / No kitchen"** (mini bar + kettle only).
+- ✅ 1-month minimum; 3/6/12-month rates on request · ✅ electricity, water, Wi-Fi, TV, **free housekeeping**, free parking (subject to availability) · gym, pool.
+- ➕ "City taxes" (VAT, TDF, municipality, service charges) apply, **no amounts** · refundable deposit, no amount · rates may change without notice.
+- ⚠️ Photos "for illustration only"; actual pictures on request.
+- ❌ agency fee, Ejari, floor, view, metro.
+- **First-timer would miss:** no kitchen; taxes on top of 4,889 could add ~20%+.

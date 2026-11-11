@@ -20,6 +20,7 @@ Tracks preference signals for later rule-making. She won't actually contact agen
 | 28 | Executive Bay A, BB, 7,999 — **bucket: SAVE / very last** | Apartment good-looking | Way over budget; agent 1.5 from 2 reviews | (Only after everything else) | Same building and size as #14 (7,000 via Stonetree), so prefer #14 |
 | 29 | MAG 318, BB, 7,999 — **bucket: SAVE / first of the last-resort list** | Apartment and building nice; photos realistic | Over budget; taxes excluded (~9,200+ all-in); description unappealing | (First to contact once in-budget options are exhausted) | Same building as #24 (different agent), so compare offers |
 | 30 | AG Tower, BB, 7,999 — **bucket: SAVE / back burner** | **Very spacious studio** (528 sqft); agent rating good | Not good value for the price; nothing in the description suggests room to negotiate | (Only after other options are exhausted) | No hook in the description |
+| 32 (Dubizzle) | Canal Bay, BB, 4,889 — **in budget** | Fine for the listed price; first in-budget option | Fees not stated; **title says "Hotel room, no kitchen"** (persona needs a kitchen); photos illustrative only | What are the VAT/TDF/municipality/service charges? 3-month rate? **Actual photos?** | 3/6/12-month rates on request → ask for the 3-month price |
 | 11* | Bayz by Danube, BB, 7,500 | Visited in person, nice; agent good; detailed description | Edge of BB, highways, far from places; real 3-month price 9,000 | — | — |
 
 \* Positive on the unit, but not a pick.
