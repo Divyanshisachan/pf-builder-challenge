@@ -23,11 +23,13 @@ function Heart({ on, size = 24 }: { on: boolean; size?: number }) {
   );
 }
 
+// Only Location and Price actually filter in this prototype; the rest are shown like the app.
 const FILTERS = [
   { id: "type", label: "Rent", applied: "Rent", opts: ["Rent", "Buy"] },
+  { id: "loc", label: "Location", applied: "", opts: ["Business Bay", "Dubai Marina"], wired: true },
   { id: "ptype", label: "Property type", applied: "Apartment", opts: ["Apartment", "Villa", "Townhouse", "Hotel apartment"] },
   { id: "beds", label: "Beds", applied: "Studio", opts: ["Studio", "1", "2", "3+"] },
-  { id: "price", label: "Price", applied: "Up to AED 8,000", opts: ["Up to AED 6,000", "Up to AED 8,000", "Up to AED 10,000"] },
+  { id: "price", label: "Price", applied: "", opts: ["Up to AED 6,000", "Up to AED 7,000", "Up to AED 7,500", "Up to AED 8,000"], wired: true },
   { id: "period", label: "Rent period", applied: "Monthly", opts: ["Yearly", "Monthly", "Weekly", "Daily"] },
   { id: "furn", label: "Furnishing", applied: "Furnished", opts: ["Any", "Furnished", "Unfurnished"] },
 ];
@@ -36,9 +38,11 @@ export default function App({ start = "search" }: { start?: Screen }) {
   const [screen, setScreen] = useState<Screen>(start);
   const [applied, setApplied] = useState(start !== "search");
   const [sheet, setSheet] = useState<string | null>(null);
+  const [sel, setSel] = useState<Record<string, string>>({ type: "Rent" });
+  const [pending, setPending] = useState<string>("");
   const [page, setPage] = useState(1);
   const [open, setOpen] = useState<number>(11);
-  const [saved, setSaved] = useState<number[]>(start === "wishlist" ? [11, 16, ...PRESAVED] : PRESAVED);
+  const [saved, setSaved] = useState<number[]>(start === "wishlist" ? [11, 16, ...PRESAVED] : []);
   const [toast, setToast] = useState<{ t: string; go?: boolean } | null>(null);
   const [scoutK, setScoutK] = useState<number | null>(null);
   const [chats, setChats] = useState<Record<number, { from: "me" | "them" | "sys"; text: string }[]>>({});
@@ -89,11 +93,11 @@ export default function App({ start = "search" }: { start?: Screen }) {
         <div className="logo"><i />Property Finder</div>
       </div>
       <div className="bar" style={{ paddingTop: 0 }}>
-        <div className="search">⌕ <span style={{ color: applied ? "#1c1c1c" : undefined }}>{applied ? "Business Bay, Dubai Marina" : "City, community or building"}</span></div>
+        <div className="search" onClick={() => { setPending(sel.loc || ""); setSheet("loc"); }}>⌕ <span style={{ color: sel.loc ? "#1c1c1c" : undefined }}>{sel.loc || "City, community or building"}</span></div>
       </div>
       <div className="chips">
         {FILTERS.map((f) => (
-          <button key={f.id} className={`chip ${applied ? "on" : ""}`} onClick={() => setSheet(f.id)}>{applied ? f.applied : f.label} ▾</button>
+          <button key={f.id} className={`chip ${sel[f.id] && f.id !== "type" ? "on" : ""}`} onClick={() => { setPending(sel[f.id] || ""); setSheet(f.id); }}>{sel[f.id] || f.label} ▾</button>
         ))}
       </div>
     </div>
@@ -114,12 +118,15 @@ export default function App({ start = "search" }: { start?: Screen }) {
   let body: React.ReactNode = null;
 
   if (screen === "search" || screen === "results") {
-    const per = 6; const list = CARDS.slice((page - 1) * per, page * per);
+    const per = 6;
+    const max = sel.price ? +sel.price.replace(/\D/g, "") : Infinity;
+    const all = CARDS.filter((c) => c.price <= max && (!sel.loc || c.loc.includes(sel.loc)));
+    const list = all.slice((page - 1) * per, page * per);
     body = (
       <>
         {Top}
-        {!applied && <div className="note"><b>Prototype · renter flow.</b> Tap any filter to see its options, then <b>Apply filters</b> to use the audit's filters: Rent · Apartment · Studio · up to AED 8,000 · Monthly · Furnished · Business Bay + Dubai Marina.</div>}
-        <div className="count"><span><b style={{ color: "#1c1c1c" }}>{applied ? "Studios for rent, monthly" : "Properties for rent in Dubai"}</b> · 8 audited listings</span><span>Sort: Featured</span></div>
+        <div className="count"><span><b style={{ color: "#1c1c1c" }}>{sel.loc ? `Properties for rent in ${sel.loc}` : "Properties for rent in Dubai"}</b> · {all.length} results</span><span>Sort: Featured</span></div>
+        {all.length === 0 && <p className="note">No listings match. Try a higher price.</p>}
         {list.map((c) => (
           <div className="card" key={c.k}>
             <div className="ph" onClick={() => tapCard(c)}>
@@ -141,9 +148,8 @@ export default function App({ start = "search" }: { start?: Screen }) {
           </div>
         ))}
         <div className="pager">
-          {[1, 2, 3, 4].map((p) => <button key={p} className={p === page ? "on" : ""} onClick={() => (p <= 2 ? setPage(p) : setToast({ t: "Prototype: pages 3–4 not included" }))}>{p}</button>)}
+          {[1, 2, 3, 4].map((p) => <button key={p} className={p === page ? "on" : ""} onClick={() => (p <= Math.ceil(all.length / per) ? setPage(p) : setToast({ t: "Prototype: only the audited listings are included" }))}>{p}</button>)}
         </div>
-        {!applied && <button className="cta" style={{ bottom: 70 }} onClick={() => { setApplied(true); setScreen("results"); }}>Apply filters →</button>}
         {Nav}
       </>
     );
@@ -207,8 +213,12 @@ export default function App({ start = "search" }: { start?: Screen }) {
         <div className="sheetbg" onClick={() => setSheet(null)}>
           <div className="sheet" onClick={(e) => e.stopPropagation()}>
             <h3>{f.label}</h3>
-            {f.opts.map((o) => <button key={o} className={`opt ${o === f.applied ? "on" : ""}`} onClick={() => setToast({ t: `Demo uses "${f.applied}"` })}>{o}{o === f.applied ? "  ✓ demo filter" : ""}</button>)}
-            <button className="btn" onClick={() => { setSheet(null); setApplied(true); setScreen("results"); }}>Apply</button>
+            {f.opts.map((o) => <button key={o} className={`opt ${o === pending ? "on" : ""}`} onClick={() => setPending(o === pending ? "" : o)}>{o}</button>)}
+            {!("wired" in f) && <p className="muted">Prototype: only Location and Price filter the results.</p>}
+            <div style={{ display: "flex", gap: 8 }}>
+              <button className="btn ghost" onClick={() => { setSel({ ...sel, [f.id]: f.id === "type" ? "Rent" : "" }); setPage(1); setSheet(null); }}>Reset</button>
+              <button className="btn" onClick={() => { setSel({ ...sel, [f.id]: pending }); setPage(1); setApplied(true); setScreen("results"); setSheet(null); }}>Show results</button>
+            </div>
           </div>
         </div>
       )}

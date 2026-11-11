@@ -78,7 +78,7 @@ export default function ScoutWishlist({ initialSaved, onBack, onOpen }: { initia
   const flagged = active.filter((k) => groupOf(k) === "misleading").length;
   const misleadingN = active.filter((k) => groupOf(k) === "misleading").length;
 
-  useEffect(() => { setToast({ t: `Scout checked your ${active.length} saved homes: ${flagged} need a look →`, go: () => goScout() }); /* eslint-disable-next-line */ }, []);
+  useEffect(() => { if (active.length) setToast({ t: `Scout checked your ${active.length} saved home${active.length > 1 ? "s" : ""}: ${flagged} look misleading →`, go: () => goScout() }); /* eslint-disable-next-line */ }, [saved.length]);
   useEffect(() => { if (toast) { const t = window.setTimeout(() => setToast(null), 4500); return () => clearTimeout(t); } }, [toast]);
   useEffect(() => () => timers.current.forEach(clearTimeout), []);
 
@@ -204,7 +204,9 @@ export default function ScoutWishlist({ initialSaved, onBack, onOpen }: { initia
   } else if (tab === "list") {
     body = (
       <>
-        <div className="scoutbar" onClick={goScout}><div className="t"><span className="spark">✦</span>Scout checked your {active.length} saved homes</div><p>{flagged} look misleading and {active.filter((k) => groupOf(k) === "checking").length} need checking. Tap to see why →</p></div>
+        {active.length === 0 && <p className="note">Nothing saved yet. Tap ♡ on a listing and Scout will check it for you.</p>}
+        {active.length > 0 && <div className="scoutbar" onClick={goScout}><div className="t"><span className="spark">✦</span>Scout checked your {active.length} saved homes</div><p>{flagged} look misleading and {active.filter((k) => groupOf(k) === "checking").length} need checking. Tap to see why →</p></div>}
+        {active.length < 10 && <button className="q" style={{ margin: "10px 14px", width: "calc(100% - 28px)" }} onClick={() => setSaved(Array.from(new Set([...saved, ...AUD.map((l) => l.k)])))}>Demo: add my 30 other saved homes from the audit</button>}
         <div className="count"><span>{active.length} saved</span><button style={{ color: "#E1251B", fontWeight: 700 }} onClick={() => setSelect(select ? null : [])}>{select ? "Cancel" : "Select"}</button></div>
         {active.map((k) => <Card key={k} k={k} mode="list" />)}
       </>
