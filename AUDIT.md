@@ -1,5 +1,7 @@
 # AUDIT: 32 live rental listings (30 Property Finder + 1 Bayut + 1 Dubizzle)
 
+> **Source of truth: `AUDIT.xlsx`** (sheets: Summary, Rent audit (32) with area-median price signal, freshness, same-unit pairs and ⚑ misleading-signal flags, Buy audit (8)). Live prices/dates there supersede any earlier figure below.
+
 **Scope:** furnished studios for monthly rent in **Business Bay (BB)** and **Dubai Marina**, AED ~5,000–8,000/mo, matching the persona (`docs/PERSONA.md`).
 **When:** 12 Nov 2026, from India, as a searcher would see them (listing page + description). No internal data.
 **Method:** the user opened each listing and recorded her own judgment; each description was then read and checked for disclosed costs, permits, dates and inconsistencies.
