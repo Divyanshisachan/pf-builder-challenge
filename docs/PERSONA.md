@@ -1,52 +1,50 @@
-# Persona: Divyanshi (Renter)
+# Persona: Divyanshi, the short-term relocating renter
 
-> "I just want a safe, clean studio near the metro, at a price that is the real price, from an agent I can trust."
+> "Show me a clean, safe studio I'd actually like, at the price I'll really pay, from an agent who'll reply, and help me remember who I'm talking to."
 
-## Bio
-- From India, in Dubai for the first time
-- Short stint of **uncertain length**: starts ~3 months, could extend to 4, 5, 6, 7, 8+; **can't commit to a fixed term upfront**, so needs a **short-term (monthly) stay, not an annual lease**; wants the lease type stated clearly
+## Who she is
+- Indian professional moving to Dubai **for the first time**, sent by her company
+- Stay length **uncertain**: starts ~3 months, may extend to 4–8+, so she **can't commit to a fixed term**
 - No fixed office; moves between client meetings across the city
-- Doesn't know Dubai's areas
+- Doesn't know Dubai's areas or its rental rules and hidden costs
+- Searches **from India** on her phone and wants to **finalise before landing**
 
-## Looking for
-- Studio apartment, to rent
-- Nice, well-located, safe area
-- Near a metro station; otherwise somewhere cabs are easy to get
-- Grocery store nearby
-- Building with gym, pool and sauna (nice to have)
-- Clean, healthy apartment
-- Prefers a higher floor with a view; **a good view matters** ("if I'm moving to Dubai, I want a good view")
-- **Likes a spacious room**
-- **Kitchen required**: wants to cook her own food
+## What she needs (must-haves)
+- **Studio**, furnished, with a **real kitchen** (she cooks; a hotel room or kitchenette-only is a deal-breaker)
+- **Monthly / short-term terms** stated clearly, with an easy extension
+- **All-in monthly cost ≤ AED 7,500** (company allowance; range 5,000–7,500): rent + DEWA + chiller + VAT + tourism fee + service charge + agency fee
+- **Safe** building and area (a woman living alone); clean and well kept
+- **Metro within walking distance**, or easy cabs; grocery nearby
 
-## Budget
-- AED 5,000–7,500/month (company allowance)
-- Must be **all-in**: electricity, DEWA, tourism tax, 5% VAT, agency fee, and any other charges
-- May have to **raise her budget** if it's peak season and prices are up
-- Example: a 5,000 listing that ends at 6,000–6,500 is fine; a 7,000 listing that crosses 7,500 after extras is not
+## What she'd like (nice-to-haves)
+- Gym (goes 4×/week), pool, sauna
+- **High floor with a good view**
+- Spacious room; modern, "luxurious" look that matches the price
 
-## Lifestyle
-- Gym 4×/week
-- Wants a comfortable daily routine and an easy commute
+## How she judges a listing
+- **Looks first**: does the unit match her taste? Photos must show the actual unit, not skyline or stock shots
+- **Description second**: bills included? monthly terms? long-term discount? Ambiguous descriptions aren't worth an inquiry
+- **Price vs quality**: a plain unit at a luxury price is a no, even with a good agent
+- **Agent trust = review volume + rating**: 3.8 from 104 > 4.5 from 2; few reviews and under 4 = wary
+- **Buckets**: reach out now / save as last resort (ranked) / won't contact
 
-## How she searches (from scouting)
-- Searching **from India**, wants to **finalise the flat before landing** in Dubai
-- UAE agents often **don't pick up calls from Indian numbers** (they suspect scams)
-- WhatsApp calls don't work in the UAE, so it's **WhatsApp text only**
-- Talks to ~10 agents in parallel and loses track of which property, which agent, what was discussed
-- Without a tool she'd keep an **Excel**: link, agent, advantages/"hooks", what to discuss, past discussion; clunky on a phone, on the go
+## How she contacts agents
+- Agents ignore **Indian numbers** (they suspect scams); calling needs international roaming, and WhatsApp calls are blocked in the UAE, so it's **WhatsApp text only**
+- PF's WhatsApp button sends an automated message, then everything happens **outside PF**
+- Agents may never reply (the listing is lost); when they do, she **re-explains her needs from scratch**
+- Uses **hooks** from descriptions to negotiate ("discounted for long-term" → ask for 7,500 for 3 months)
+- A good agent is a **gateway** to other in-budget units
+- Juggles ~10 agent chats; **loses track** of who, which unit, what was said; falls back on a clunky Excel
 
 ## Goals
-- Find a trusted studio in her budget, in time
-- Get connected with the right, genuine agents
-- Straightforward terms and conditions
-- Hassle-free checkout and deposit return; **checkout fees and responsibilities known upfront**
-- Trust in the broker/agent (no personal references)
+- A trusted, in-budget studio, found **fast** (peak season: units go quickly)
+- Genuine, responsive agents; straightforward T&Cs
+- A **documented all-in cost she can get approved** by her manager
+- Clear deposit and checkout terms, with the deposit returned
 
-## Frustrations and fears
-- Doesn't know Dubai's hidden costs, so a listed price can be misleading
-- Fears being scammed
-- Past experience (India): security deposit never returned
-- **Past experience: miscalculated the total accommodation cost.** Got her manager's approval for an amount, paid, and the real total exceeded it; the company asked her why. Needs a **documented, approvable all-in cost** before committing
-- Safety concerns as a woman living alone
-- No personal references to rely on
+## Fears and past pain
+- Hidden costs: once got approval for one amount, the real total exceeded it, and her company asked why
+- Lost a security deposit before (India)
+- Bait listings: recycled photos, a different unit sent on WhatsApp
+- Can't visit before booking, yet once closed a deal on WhatsApp photos + agency reputation alone
+- No personal references in Dubai
