@@ -6,6 +6,16 @@
 
 Scout lives on the **❤ Wishlist**. It checks every home you saved, sorts them into **🟢 Looks genuine / 🟡 Needs checking / 🔴 Likely misleading**, explains why in one line, shows the real month-1 cost, and **messages the agents for you** (one tap, one message each, with your needs and the listing-specific questions). The agent replies, and the verdict updates. The agent stays in the deal; Scout never negotiates or signs.
 
+## For reviewers: where each judging point is answered
+| You're judging | Where to look | In one line |
+|---|---|---|
+| **The evidence I collected** | `AUDIT.md` / `AUDIT.xlsx`, `evidence/`, `docs/FINDINGS.md` | 32 live rent listings (+8 buy) opened one by one; for each: price vs area, duplicates, photos, freshness, permit, fees, my own call |
+| **The problem I chose** | `ONE-PAGER.md` → "The problem behind the problem" | Not "some listings are fake", but **"from the page you can't tell what's real, available and in budget, and the truth only comes out later on WhatsApp, where PF never sees it"** (0/30 let you compute the all-in price) |
+| **The rules and where they break** | `RULES.md` (every rule has "Wrong when" + "Who gets hurt"), `TEST-RESULTS.md` | E.g. R6 "same size + same price = same unit" breaks on #16/#17 (5th vs 15th floor); R4 "stale" breaks for holiday homes that re-rent. v1 rules matched me 14/32, so I fixed them to 31/32; the score model matches 32/32 (in-sample) |
+| **Where it lives in the search** | `ONE-PAGER.md` → "Where it lives", prototype ♡ → Wishlist | On the Wishlist, triggered by the ♡, because that's where she compares. Not on search: verdicts stay private, no public badge on paying agents |
+| **How it works with agents** | Prototype: Wishlist → Select → **Message agents** (or "Ask Scout to verify") → drafts → Send → **Simulate agent replies**. `RULES.md` Part 2 (G1–G6) | Scout sends each agent one pre-qualified message (her needs + 3 questions), brings the answer back, and re-scores the listing (confirmed → 🟢, rented → 🔴). It never negotiates or signs; it hands over for viewings. Agent replies are simulated; real WhatsApp/inbox integration is in "could not build" |
+| **Why a person would trust it** | `RULES.md` Part 2 (H1–H6), Details sheet in the prototype | Every verdict shows its reasons and points; facts, estimates and unknowns are kept apart ("❓ ask agent"); it never says "fake"; it never hides a listing (archive has Undo); it works only for the searcher; and it is checked against a real person's verdicts |
+
 ## Scope (please read)
 - **Renter-first.** 32 rent listings were personally reviewed (30 Property Finder + 1 Bayut + 1 Dubizzle; Business Bay + Dubai Marina studios, 12 Nov 2026). The prototype is the renter flow only.
 - **Buyer side is light:** 8 Business Bay 1BR sale listings were checked by Claude, not personally reviewed, with a synthesised buyer persona. Buyer rules are directional.
