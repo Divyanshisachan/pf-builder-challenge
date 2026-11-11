@@ -93,3 +93,12 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - ❌ agency fee, Ejari, extension/renewal terms, cancellation policy (despite "Flexible Cancellation" in the title), photos real/indicative.
 - Rates may vary by season; "monthly payments" vs "1 cheque" conflict. Badge says "90% less than average", but like-for-like it is ~20% above.
 - **First-timer would miss:** 7,500 + 375 VAT ≈ **7,875 + DTCM fee + admin fee**, already over the 7,500 cap. Extension is a new "package" at possibly seasonal rates, not a guaranteed extension.
+
+## #11 Bayz by Danube, BB, AED 7,500/mo headline, 407 sqft
+- Agency: Superhost Vacation Homes; agent "Hanif Admin", 4.1 (14). DTCM BUS-BAY-FLVXT; broker licence "00000". Listed 6 days ago ("Upgraded" = paid boost); available 5 Nov 2026. 38 photos.
+- View: canal + **Al Khail Road** (matches the user's first-hand "highways" observation); Burj Khalifa view from the rooftop pool only.
+- ⚠️ **Headline 7,500, but the description says 9,000/mo for a 3-month stay and 8,000/mo for 6 months**, "only valid for current month", seasonal.
+- ✅ full kitchen · gym, rooftop pool; sauna/steam in the description but not in the amenity list · ➕ VAT 5%, tourism fee, deposit (no amounts).
+- ❌ lease type, Ejari, minimum stay, chiller, itemised bills ("bills included" in the title only), agency/cleaning/service fees, photos real/indicative, **metro/bus distance**.
+- Same "89% less than average" monthly-vs-annual badge.
+- **First-timer would miss:** for her 3-month stay the real price is **9,000 + 450 VAT ≈ 9,450 + tourism fee**, not 7,500. The search card shows 7,500.

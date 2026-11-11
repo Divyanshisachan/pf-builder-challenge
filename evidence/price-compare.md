@@ -14,6 +14,7 @@ Same listed price can hide a very different real cost. ✅ included · ➕ extra
 | 8 | Merano Tower, BB | 6,499 | 334 | 19.5 | ✅ "all utilities" (title only) | ❓ | ❓ | ❓ | ❓ | ❓ | 1 cheque | 6,499 + unknowns |
 | 9 | Urban Oasis by Missoni, BB | 7,500 ("15% drop") | 420 | 17.9 | ❓ | ❓ | ➕ extra | ➕ AED 10/night, first 30 | ❓ | ➕ refundable, no amount | **7% service charge**; 200 cleaning/checkout; short-term only | ~8,700 in month 1 (7,500 + 375 VAT + 525 service + 300 tourism), ~8,400 after |
 | 10 | Studio One, Marina | 7,500 | 355 | 21.1 | ✅ electricity, water, gas, Wi-Fi, TV | ✅ incl. | ➕ extra | ➕ "DTCM fee", no amount | ❓ | ➕ refundable, no amount | Admin fee (no amount); cleaning is paid add-on; 1 cheque; seasonal rates | ~7,875 + DTCM + admin fee |
+| 11 | Bayz by Danube, BB | 7,500 headline, but **9,000 for 3 mo / 8,000 for 6 mo** in description | 407 | 18.4 (22.1 at 9k) | ✅ "bills incl." (title only) | ❓ | ➕ extra | ➕ extra, no amount | ❓ | ➕ required, no amount | Offer valid current month only; seasonal rates | **~9,450 + tourism fee for a 3-month stay** |
 
 ## What the table shows
 - **#1 vs #3:** similar price (5,000 vs 5,500) and size (520 vs 600), but #1 discloses nothing while #3 discloses most items.

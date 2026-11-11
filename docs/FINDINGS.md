@@ -22,3 +22,5 @@
 18. **What made the first "liked" listing:** enough real room photos + real studio with kitchen + good amenities + agent rated >4 + clear lease type + fees stated. (Listing #9)
 19. **Monthly/flexible terms = fit for a visitor.** #10's monthly basis lets her stay 3 months and extend 1–2 more. A strong reason to like it. (Listing #10)
 20. **"Additional fees apply" with no amounts forces a call.** The fees are named but not priced, so she can't tell if it fits her budget without contacting the agent. (Listing #10)
+21. **Community photos actively mislead on far-off buildings.** User visited #11 in person: it sits at the extreme edge of Business Bay, overlooking highways, and the places shown in its community photos need long travel. Someone who knows the area catches this; a first-timer wouldn't. (Listing #11, first-hand)
+22. **Transit time in minutes is valued.** Some listings give metro/bus-stop distance in minutes (e.g. #10: DMCC metro ~15 min walk), which is useful. #11 omits it, and the user knows it's far. Absence of transit info can itself be a signal. (Listings #10, #11)
