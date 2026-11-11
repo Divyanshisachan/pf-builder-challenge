@@ -32,6 +32,7 @@ Same listed price can hide a very different real cost. ✅ included · ➕ extra
 | 26 | DAMAC Majestine, BB | 7,999 | 400 | 20.0 | ❓ | ❓ | ➕ extra | ➕ DTCM fee, no amount | ❓ | ➕ required, no amount | 5% service charge; weekend/holiday rates; housekeeping extra | ~8,800 + DTCM fee (7,999 + 400 VAT + 400 service) |
 | 27 | Regalia by Deyaar, BB | 7,999 | 434 | 18.4 | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | Nothing on fees/terms | 7,999 + unknowns (JSR template elsewhere adds VAT + service charge) |
 | 28 | Executive Bay A, BB (same building and size as #14) | 7,999 | 482 | 16.6 | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | Nothing on fees/terms | 7,999 + unknowns. **#14: same building, same 482 sqft, listed at 7,000** |
+| 29 | MAG 318, BB (same building as #24) | 7,999 ("discounted", no original shown) | 444 | 18.0 | ❓ | ❓ | ➕ extra | ➕ DTCM fee, no amount | ❓ | ➕ required, no amount | **10% service charge**; weekend/holiday rates; housekeeping extra; 12 cheques | **~9,200 + DTCM fee** (7,999 + 400 VAT + 800 service) |
 
 ## What the table shows
 - **#1 vs #3:** similar price (5,000 vs 5,500) and size (520 vs 600), but #1 discloses nothing while #3 discloses most items.

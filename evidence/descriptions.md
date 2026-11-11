@@ -235,3 +235,10 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - Canal view from a balcony; full kitchen (fridge, stove, oven, microwave, cookware); pool, gym; no metro (roads only); "long or short stays".
 - ❌ **Nothing on fees or terms**: lease type, bills, VAT, tourism fee, service charge, agency fee, deposit, cleaning, Ejari, photos real/indicative.
 - Same building and size as #14 (7,000); like-for-like ~35% above average.
+
+## #29 MAG 318, BB, AED 7,999/mo, 444 sqft (same building as #24)
+- Agency: JSR Global (6th JSR; same agent as #6/#8/#26/#27, Mohammed Hassan, 3.9 (7)). DTCM BUS-MAG-ED95O; agent licence "12345". Listed 6+ months ago; available 27 Oct 2026. 12 cheques.
+- "Brand new" and "Discounted price" with no original price shown. Kitchen; pool, gym; no metro.
+- ➕ **5% VAT + 10% service charge** + DTCM fee + deposit (no amounts); weekend/holiday rates; housekeeping extra.
+- ❌ lease type, bills, agency fee, Ejari, floor, view, photos real/indicative.
+- **First-timer would miss:** ≈ **9,200 + DTCM fee**.

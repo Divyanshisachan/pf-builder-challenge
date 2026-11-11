@@ -68,3 +68,5 @@
 56. **🔑 She sorts listings into buckets:** (1) **reach out now**, (2) **save, reach out only after exhausting other options** (good unit, but over budget or weak agent), (3) **won't contact**. Saving as a fallback matters in peak season, when she may have to raise her budget. (Listing #27)
 57. **Same building, same size, ~1,000 apart.** #28 (Executive Bay A, 482 sqft) is 7,999; #14 (same building, 482 sqft) is 7,000 from a different agency. The searcher can't easily see the two side by side. (Listings #14, #28)
 58. **She wants PF to keep her list.** Today she'd put saved fallbacks at the bottom of her own Excel; she wishes Property Finder helped her build and rank that list. (Listing #28)
+59. **🔑 Ranking within the "save" bucket.** She already orders her last-resort list: #29 first, #28 at the very end. Saved ≠ equal. (Listings #27–29)
+60. **🔑 Explicit ask: compute the monthly end price and keep a final list.** Rent + agency fee + taxes + DEWA etc. → true monthly cost, plus one consolidated list after going through all the descriptions. (Listing #29)

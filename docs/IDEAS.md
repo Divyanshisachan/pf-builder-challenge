@@ -5,3 +5,4 @@
 3. **Surface long-stay offers without opening every listing.** Origin: finding #28.
 4. **All-in cost calculator + shareable cost sheet** (VAT, service charge, tourism fee, deposit, agency fee) she can send to her manager for approval. Origin: findings #29, #50.
 5. **Ask before showing.** Scout starts by understanding the persona (short-term renter / relocating long-term renter / buyer) and needs, then shows ~25 relevant listings instead of 100. Origin: findings #46–48.
+6. **Assistant computes the monthly end price and builds her final list.** For every listing: rent + agency fee + VAT + service charge + tourism fee + DEWA/chiller + deposit = **true monthly cost**, then a single final list of what she's considering. "That would go a long, long way." Origin: listing #29, after reading ~29 descriptions.
