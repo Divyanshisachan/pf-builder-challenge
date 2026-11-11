@@ -2,6 +2,13 @@
 
 Built from `AUDIT.xlsx` (32 rent + 8 buy live listings, 12 Nov 2026). Examples (#) refer to audit rows.
 
+## v2 changes after testing (see TEST-RESULTS.md: 14/32 → 31/32 agreement with the researcher)
+- **Trust ≠ fit:** budget and kitchen never change the trust label; they decide the short list.
+- **R8 never counts toward removal:** the assistant computes the all-in price instead.
+- **R5 counts only "too cheap"** as a bait signal; "too pricey" is a value note.
+- **R6:** a same-price twin proves the flat exists (cancels R7 photo doubts), not that it's available. A cheaper, older twin counts as staleness, not as a second signal.
+- **R1:** a placeholder agent licence alone is a note. Remove only if the permit AND the licence are missing; a missing permit alone is 🟡.
+
 ## How it decides
 Every listing gets one of three labels, always **with the reason shown**:
 
