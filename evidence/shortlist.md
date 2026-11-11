@@ -17,6 +17,7 @@ Tracks preference signals for later rule-making. She won't actually contact agen
 | 24 | MAG 318, BB, 7,998 | Likes the studio; agent rating good | Above budget (~9,500 all-in in month 1); no discount mentioned | Can you do a better price? **Do you have other studios in my budget in this area?** | The agent as a gateway: even if this unit doesn't work, she may have in-budget options nearby |
 | 25 | Aykon City Tower C, BB, 7,999 | Likes it; agent 4.4 (40), SuperAgent | **Way above budget** (~9,900 all-in in month 1) | **Other studios in my budget?** Why 7,999 when Tower A rented for 4,500 all-in? | ⚑ Her own comparable: Tower A, same complex, 4,500/mo all bills incl. Use it as an anchor to negotiate or to ask for in-budget options |
 | 27 | Regalia by Deyaar, BB, 7,999 — **bucket: SAVE / last resort** | The kind of studio she'd want if it were in budget | Above budget; agent rating not good | (Only after other options are exhausted) | Backup if it's peak season and she has to raise her budget |
+| 28 | Executive Bay A, BB, 7,999 — **bucket: SAVE / very last** | Apartment good-looking | Way over budget; agent 1.5 from 2 reviews | (Only after everything else) | Same building and size as #14 (7,000 via Stonetree), so prefer #14 |
 | 11* | Bayz by Danube, BB, 7,500 | Visited in person, nice; agent good; detailed description | Edge of BB, highways, far from places; real 3-month price 9,000 | — | — |
 
 \* Positive on the unit, but not a pick.

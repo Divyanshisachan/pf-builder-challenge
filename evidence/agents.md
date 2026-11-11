@@ -29,6 +29,7 @@
 | 25 | Aykon City Tower C, BB | Chafik Alknani (**SuperAgent** badge) | Flamingo Livings Vacation Homes Rental LLC | 4.4 (40) | DTCM 1499444 | N/A |
 | 26 | DAMAC Majestine, BB | Mohammed Hassan (same as #6, #8) | JSR Global Vacation Home Rentals LLC | 3.9 (7) | none shown | – (agent licence "12345") |
 | 27 | Regalia by Deyaar, BB | Mohammed Hassan (same as #6, #8, #26) | JSR Global Vacation Home Rentals LLC | 3.9 (7) | DTCM BUS-REG-BB9OE | – (agent licence "12345") |
+| 28 | Executive Bay A, BB | Janel Omurbekova | Luton Vacation Homes | **1.5 (2)** | DTCM BUS-EXE-5AOHA | 47908 |
 
 ## Patterns
 - **4 agencies across 7 listings**, all holiday-home or vacation-rental operators.

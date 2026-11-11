@@ -229,3 +229,9 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - "Brand-new" studio (project delivered Q4 2024); landmark view tag; kitchen; pool, gym; no sauna; **no metro** (roads only). 709 active rental listings in the building.
 - ❌ **Nothing on fees or terms**: lease type, payment, bills, VAT, tourism, service charge, agency fee, deposit, cleaning, Ejari, photos real/indicative. Even less than the agent's other listings (#6/#26 disclose VAT + service charge).
 - **First-timer would miss:** the same agent's other listings add VAT and a service charge, so expect them here too.
+
+## #28 Executive Bay A, BB, AED 7,999/mo, 482 sqft
+- Agency: Luton Vacation Homes; agent Janel Omurbekova, **1.5 (2)**. DTCM BUS-EXE-5AOHA; broker licence 47908. Listed 1 month ago; available 16 Sep 2026. 25 photos.
+- Canal view from a balcony; full kitchen (fridge, stove, oven, microwave, cookware); pool, gym; no metro (roads only); "long or short stays".
+- ❌ **Nothing on fees or terms**: lease type, bills, VAT, tourism fee, service charge, agency fee, deposit, cleaning, Ejari, photos real/indicative.
+- Same building and size as #14 (7,000); like-for-like ~35% above average.
