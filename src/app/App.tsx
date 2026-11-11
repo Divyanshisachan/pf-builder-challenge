@@ -4,7 +4,6 @@ import audit from "@/data/rent-audit.json";
 import { CARDS, PRESAVED, MOCK_REPLY, Card } from "@/data/cards";
 import { judge, Listing, Verdict, DIVYANSHI } from "@/lib/scout";
 import ScoutWishlist from "./ScoutWishlist";
-import { trustCheck } from "@/lib/trustCheck";
 
 export type Screen = "search" | "results" | "pdp" | "wishlist" | "scout";
 const AUD = audit as unknown as Listing[];
@@ -105,7 +104,7 @@ export default function App({ start = "search" }: { start?: Screen }) {
       <button className={screen === "search" || screen === "results" || screen === "pdp" ? "on" : ""} onClick={() => setScreen(applied ? "results" : "search")}>⌕<span>Search</span></button>
       <button className={screen === "wishlist" || screen === "scout" ? "on" : ""} onClick={() => setScreen("wishlist")} style={{ position: "relative" }}>
         <Heart on={screen === "wishlist" || screen === "scout"} size={18} />
-        {saved.filter((k) => trustCheck(byK(k)).group === "misleading").length > 0 && <span className="dot">{saved.filter((k) => trustCheck(byK(k)).group === "misleading").length}</span>}
+        {saved.length > 0 && <span className="dot">{saved.length}</span>}
         <span>Wishlist</span>
       </button>
       <button onClick={() => setToast({ t: "Not part of this prototype" })}>☰<span>More</span></button>
@@ -114,26 +113,13 @@ export default function App({ start = "search" }: { start?: Screen }) {
 
   let body: React.ReactNode = null;
 
-  if (screen === "search") {
-    body = (
-      <>
-        {Top}
-        <div className="note"><b>Prototype · renter flow.</b> Tap any filter to see its options, then tap <b>Next</b> to apply the filters used in the audit: Rent · Apartment · Studio · up to AED 8,000 · Monthly · Furnished · Business Bay + Dubai Marina.</div>
-        <div style={{ padding: "40px 24px", textAlign: "center", color: "#6b6b6b", fontSize: 14 }}>
-          <div style={{ fontSize: 42 }}>🏙️</div>
-          <p>Divyanshi is moving to Dubai for ~3 months and needs a furnished studio, AED 5,000–7,500 a month all-in.</p>
-        </div>
-        <button className="cta" onClick={() => { setApplied(true); setScreen("results"); }}>Next: apply filters →</button>
-      </>
-    );
-  }
-
-  if (screen === "results") {
+  if (screen === "search" || screen === "results") {
     const per = 6; const list = CARDS.slice((page - 1) * per, page * per);
     body = (
       <>
         {Top}
-        <div className="count"><span><b style={{ color: "#1c1c1c" }}>Studios for rent, monthly</b> · 8 audited listings</span><span>Sort: Featured</span></div>
+        {!applied && <div className="note"><b>Prototype · renter flow.</b> Tap any filter to see its options, then <b>Apply filters</b> to use the audit's filters: Rent · Apartment · Studio · up to AED 8,000 · Monthly · Furnished · Business Bay + Dubai Marina.</div>}
+        <div className="count"><span><b style={{ color: "#1c1c1c" }}>{applied ? "Studios for rent, monthly" : "Properties for rent in Dubai"}</b> · 8 audited listings</span><span>Sort: Featured</span></div>
         {list.map((c) => (
           <div className="card" key={c.k}>
             <div className="ph" onClick={() => tapCard(c)}>
@@ -157,6 +143,7 @@ export default function App({ start = "search" }: { start?: Screen }) {
         <div className="pager">
           {[1, 2, 3, 4].map((p) => <button key={p} className={p === page ? "on" : ""} onClick={() => (p <= 2 ? setPage(p) : setToast({ t: "Prototype: pages 3–4 not included" }))}>{p}</button>)}
         </div>
+        {!applied && <button className="cta" style={{ bottom: 70 }} onClick={() => { setApplied(true); setScreen("results"); }}>Apply filters →</button>}
         {Nav}
       </>
     );

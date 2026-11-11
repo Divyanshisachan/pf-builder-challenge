@@ -156,7 +156,7 @@ export default function ScoutWishlist({ initialSaved, onBack, onOpen }: { initia
       <button onClick={goScout} className="scoutbtn"><span className="spark">✦</span>Scout AI</button>
     </div>
       <div className="tabs">
-        {(["list", "scout", "history"] as const).map((x) => <button key={x} className={tab === x ? "on" : ""} onClick={() => (x === "scout" ? goScout() : setTab(x))}>{x === "list" ? `❤ ${active.length} · ${flagged} flagged` : x === "scout" ? "✦ Scout check" : "History"}</button>)}
+        {(["list", "scout", "history"] as const).map((x) => <button key={x} className={tab === x ? "on" : ""} onClick={() => (x === "scout" ? goScout() : setTab(x))}>{x === "list" ? `❤ ${active.length} saved · ${flagged} flagged` : x === "scout" ? "✦ Scout check" : "History"}</button>)}
       </div>
     </div>
   );
