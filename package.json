@@ -1,7 +1,22 @@
 {
   "name": "pf-scout-wishlist",
   "private": true,
-  "scripts": { "dev": "next dev", "build": "next build", "start": "next start", "test:rules": "tsx scripts/test-rules.ts" },
-  "dependencies": { "next": "15.5.29", "react": "19.1.0", "react-dom": "19.1.0" },
-  "devDependencies": { "typescript": "5.6.3", "@types/react": "19.1.0", "@types/node": "22.10.0", "tsx": "4.19.2" }
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test:rules": "tsx scripts/test-rules.ts",
+    "test:trust": "tsx scripts/calibrate.ts"
+  },
+  "dependencies": {
+    "next": "15.5.29",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "typescript": "5.6.3",
+    "@types/react": "19.1.0",
+    "@types/node": "22.10.0",
+    "tsx": "4.19.2"
+  }
 }
