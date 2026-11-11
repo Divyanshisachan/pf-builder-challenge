@@ -42,3 +42,4 @@
 38. **What she wishes existed:** per-listing memory of *why she picked it*, *what to discuss*, and *the hook for her case*, available while talking to each agent.
 39. **Distances in the description are a plus.** #17 lists walk/drive times to metro and landmarks (DMCC metro 6–8 min walk, Marina Mall 8–10, JBR 10–12, Downtown 20–22 min drive). Exactly what a newcomer who doesn't know the city needs. (Listing #17)
 40. **One agency, same template, many units.** Colife's #16 and #17 share the description wording ("discounted for long-term", bills included) and the same building with different agents. Useful for comparing offers, confusing for tracking. (Listings #16, #17)
+41. **Looks drive the "like".** She liked #18 mainly for how the apartment looks. Visual taste (luxury, view) is a primary filter that no search filter captures. (Listing #18)

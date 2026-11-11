@@ -19,6 +19,7 @@
 | 15 | Marina Diamond 1, Marina | Senthil Raj Subramaniam (surname spelled two ways) | Druvya Holiday Homes LLC | 4.3 (8) | DTCM 1114281 | 00000 |
 | 16 | Yacht Bay, Marina | Artem Babinov | Colife Vacation Homes LLC | 3.8 (**104**) | DTCM DUB-YAC-QZL25 | 1044321 (real-looking) |
 | 17 | Yacht Bay, Marina | Andrei Shchuko | Colife Vacation Homes LLC | 4.3 (4) | DTCM DUB-YAC-OPYTU | 1044321 |
+| 18 | Urban Oasis, BB | Sharon Pingol (same as #9) | HomesGetaway | 4.2 (16) | DTCM BUS-URB-ZHJ9B | 849076 |
 
 ## Patterns
 - **4 agencies across 7 listings**, all holiday-home or vacation-rental operators.

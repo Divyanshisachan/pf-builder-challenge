@@ -153,3 +153,10 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - ❌ VAT, tourism fee, service charge, agency fee, deposit, cleaning, Ejari, lease type, photos real/indicative.
 - Same template text as #16; "90% less" badge again (like-for-like above average).
 - **First-timer would miss:** whether VAT/tourism fee apply on top; the discount is unknown until negotiated.
+
+## #18 Urban Oasis, BB, AED 7,700/mo, 426 sqft
+- Agency: HomesGetaway; agent Sharon Pingol (same as #9), 4.2 (16). DTCM BUS-URB-ZHJ9B; licence 849076. Listed 16 days ago; "Available now" in the title vs available-from 10 Nov 2026.
+- Same template as #9: **short-term only (daily/weekly/monthly, no annual)**; rate valid for the current month only; ➕ 5% VAT, 7% service charge, AED 10/night tourism fee (first 30), AED 200 cleaning, refundable deposit (no amount).
+- Water view (tag); kitchen appliances; shared pool; gym/sauna not in the visible amenities.
+- ❌ bills/DEWA, chiller, agency fee, Ejari, metro, photos real/indicative. **Long-term discount: not found in the fetched page** (user recalls one; to verify).
+- **First-timer would miss:** 7,700 listed ≈ **8,925 in month 1**; price can change after month 1.
