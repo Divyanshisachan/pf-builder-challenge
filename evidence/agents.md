@@ -22,6 +22,7 @@
 | 18 | Urban Oasis, BB | Sharon Pingol (same as #9) | HomesGetaway | 4.2 (16) | DTCM BUS-URB-ZHJ9B | 849076 |
 | 19 | LIV Residence, Marina | Ilnara Muzafiarova | Colife Vacation Homes LLC | 3.9 (17) | DTCM DUB-LIV-IPWKV | 1044321 |
 | 20 | J ONE Tower A, BB | Artem Babinov (same as #16) | Colife Vacation Homes LLC | 3.8 (104) | DTCM BUS-JO-YLGPB | 1044321 |
+| 21 | J ONE Tower A, BB | Ilnara Muzafiarova (same as #19) | Colife Vacation Homes LLC | 3.9 (17) | DTCM BUS-JON-GNZJD | 1044321 |
 
 ## Patterns
 - **4 agencies across 7 listings**, all holiday-home or vacation-rental operators.

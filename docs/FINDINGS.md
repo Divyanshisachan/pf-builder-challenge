@@ -46,3 +46,7 @@
 42. **🔑 Her agent-trust rule:** many reviews + rating just under 4 (3.8–3.9) = trust. Few reviews (e.g. 4) + rating under 4 = apprehensive. Volume of reviews beats the score. (Listing #20; see also #32)
 43. **Fallback when unsure: ask for real videos.** After many listings, when photos are ambiguous (room vs area mismatch, room looks small), she'd simply ask the agent for actual videos of the unit. (Listing #20)
 44. **Photo size perception can mislead.** #20 looked small in photos, yet it's 686 sqft, the largest studio so far. Photos alone don't convey size. (Listing #20)
+45. **🔑 Her pattern for whom she reaches out to (her own words):**
+    1. The apartment matches her **taste**.
+    2. The **description matches what she needs** (bills included, monthly terms, long-term discount).
+    Earlier listings had **ambiguous descriptions**, and reaching out to those agents wouldn't get her anywhere. So clear descriptions earn the inquiry; ambiguous ones don't. (Listing #21, reflecting on #1–21)

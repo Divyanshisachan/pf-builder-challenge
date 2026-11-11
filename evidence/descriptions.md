@@ -176,3 +176,11 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - ❌ VAT, tourism fee, service charge, agency fee, deposit, cleaning, Ejari, lease type, photos real/indicative.
 - Badge "89% less" again (like-for-like ~32% above).
 - **First-timer would miss:** the metro is a drive, not a walk; whether VAT/tourism fee apply on top.
+
+## #21 J ONE Tower A, BB, 13th floor, AED 7,829/mo, 571 sqft
+- Agency: Colife (5th Colife listing; same agent as #19, Ilnara Muzafiarova, 3.9 (17)). Same building as #20. DTCM BUS-JON-GNZJD; licence 1044321. Listed 6 days ago; available 24 Oct 2026. 12 cheques.
+- **Kitchenette** (not a full kitchen); balcony; view not stated.
+- ✅ DEWA, chiller, Wi-Fi, maintenance included (stays < 1 yr) · ✅ long-term discount (no figure) · pool, gym, **sauna, steam** (description only).
+- Distances: canal 2–3 min walk; **Business Bay metro 7–10 min drive**; Downtown 5–7 min drive.
+- ❌ VAT, tourism fee, service charge, agency fee, deposit, cleaning, Ejari, lease type, photos real/indicative.
+- **First-timer would miss:** a kitchenette, not a kitchen; the metro is a drive; whether VAT/tourism fee apply.
