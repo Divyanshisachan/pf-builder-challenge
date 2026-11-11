@@ -77,3 +77,10 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - ❌ chiller, VAT, tourism fee, agency fee, deposit, Ejari, minimum stay, service charge, photos real/indicative, gym, sauna.
 - Same "91% less than average" monthly-vs-annual badge; tower unit mix inconsistent (studio–3BR vs studio–2BR); no rental history shown.
 - **First-timer would miss:** "studio" may mean a hotel room without a kitchen; JSR's other listings (#6, #7) charge VAT + a 10% service charge, so check whether that applies here too.
+
+## #9 Urban Oasis by Missoni, AED 7,500/mo, 420 sqft (user's first "liked")
+- Agency: HomesGetaway; agent Sharon Pingol, 4.2 (16). DTCM BUS-URB-JK0AV; **broker licence 849076** (first non-placeholder licence so far). Listed 16 days ago; available 10 Nov 2026.
+- ✅ **Short-term only: daily/weekly/monthly, no annual lease** · ✅ full kitchen (fridge, stove, microwave, cookware) · ✅ VAT 5% extra · ✅ tourism fee AED 10/night, first 30 nights · ✅ **7% service charge** · ✅ AED 200 cleaning fee · ✅ refundable deposit (no amount) · rate valid for the current month only.
+- ❌ DEWA, chiller, agency fee, Ejari, checkout terms, minimum stay, floor, view, photos real/indicative, sauna, metro.
+- "15% price drop" with no earlier price shown; "89% less than average" badge, but like-for-like it is **~26% above** average.
+- **First-timer would miss:** 7,500 listed ≈ **8,700 in month 1** (7,500 + 375 VAT + 525 service + 300 tourism) plus 200 cleaning and a deposit. Also, the "monthly rate" applies to the current month only, so the price can change in month 2.

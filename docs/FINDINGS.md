@@ -17,3 +17,6 @@
 13. **Building/amenity photos add realism.** #7 adds corridor and amenity shots, making it feel more real than #6. (Listing #7)
 14. **Generic community photos misrepresent the micro-location.** The same Business Bay community images appear on every listing; but Business Bay is large, and not every part has that view or is close to Downtown. Fine as "area flavour", misleading as "your view". (Listings #1–8)
 15. **"Studio" that is really a hotel room.** #8 shows just a bed, no kitchen, yet it's listed as a studio at a high price (AED 6,499 for 334 sqft, the highest AED/sqft so far). For someone who cooks, the missing kitchen is a deal-breaker that the listing type hides. (Listing #8)
+16. **Clear lease type builds confidence.** #9 says plainly that it's short-term only (daily/weekly/monthly, not annual). For a visitor this is exactly the signal needed, and it wasn't visible on earlier listings. (Listing #9)
+17. **Disclosed fees build trust, but reveal the real price.** #9 lists tourism tax, VAT, service charge and a checkout/cleaning fee. The user liked it most, but once fees are added it's even further above budget. (Listing #9)
+18. **What made the first "liked" listing:** enough real room photos + real studio with kitchen + good amenities + agent rated >4 + clear lease type + fees stated. (Listing #9)

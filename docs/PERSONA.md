@@ -4,7 +4,7 @@
 
 ## Bio
 - From India, in Dubai for the first time
-- Short stint: 3–6 months
+- Short stint: 3–6 months, so needs a **short-term (monthly) stay, not an annual lease**; wants the lease type stated clearly
 - No fixed office; moves between client meetings across the city
 - Doesn't know Dubai's areas
 
@@ -31,7 +31,8 @@
 - Find a trusted studio in her budget, in time
 - Get connected with the right, genuine agents
 - Straightforward terms and conditions
-- Hassle-free checkout and deposit return
+- Hassle-free checkout and deposit return; **checkout fees and responsibilities known upfront**
+- Trust in the broker/agent (no personal references)
 
 ## Frustrations and fears
 - Doesn't know Dubai's hidden costs, so a listed price can be misleading
