@@ -33,6 +33,7 @@ Next.js 15, React 19, no backend, no API keys.
 ## Repo map
 | File | What it is |
 |---|---|
+| **`ONE-PAGER.md`** (+ designed `ONE-PAGER.pdf`) | Problem, placement, why use it, agents and revenue, metrics, 1% test, what I couldn't build |
 | `AUDIT.md`, **`AUDIT.xlsx`** | 32-listing rent audit + 8-listing buy audit, with links, flags and a summary (source of truth: xlsx) |
 | **`RULES.md`** | What makes a listing likely misleading, what earns the short list, what happens when unsure, and where each rule is wrong / who gets hurt. Part 2: how Scout behaves with agents |
 | `TEST-RESULTS.md` | Rules engine vs my verdicts: v1 14/32 → v2 31/32, and why |
