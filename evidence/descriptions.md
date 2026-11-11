@@ -50,3 +50,12 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - ❌ chiller, VAT, deposit, Ejari, minimum stay, photos real/indicative, sauna, metro distance ("next to metro" in the title only).
 - Same misleading "91% less than average" badge (monthly vs annual).
 - **First-timer would miss:** per-night tourism fee × 30 ≈ AED 300/mo extra, plus an agency fee of unknown size, so 6,990 can quietly cross a 7,500 cap.
+
+## #6 DAMAC Maison Privé, AED 6,999/mo, 431 sqft
+- Agency: JSR Global Vacation Home Rentals; agent rating 3.9 (7). DTCM BUS-PRI-NOQIC; agent licence "12345" (placeholder-looking); broker licence "-".
+- Listed 6+ months ago; available from 11 Nov 2026.
+- Floor not stated; "canal view" in the title only.
+- ✅ VAT 5% **extra** · ✅ tourism (DTCM) fee extra, no amount · ✅ deposit required, no amount · ✅ **10% service charge** · weekend/event/holiday special rates.
+- ❌ DEWA, chiller, agency fee, Ejari, minimum stay, photos real/indicative, sauna, metro.
+- "Hotel-serviced" language on a monthly rental; amenity lists differ between sections; "Limited time offer" with no details. Building reviews mention limited gym, noise, garbage.
+- **First-timer would miss:** 6,999 + 5% VAT + 10% service charge ≈ **8,050+** before tourism fee and deposit, well above a 7,500 cap.

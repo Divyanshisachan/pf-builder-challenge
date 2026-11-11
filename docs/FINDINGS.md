@@ -12,3 +12,4 @@
 8. **Price doesn't match what you get.** A plain-looking Marina studio is priced the same as a modern Business Bay one; more luxurious options exist at the same price. Searcher can't tell what justifies the price. (Listing #5)
 9. **Floor and view not stated.** Matters for a searcher who wants a high floor with a view. (Listing #5)
 10. **Inclusions stated = trust boost.** Listing #5 lists what is included/excluded, which the user called a good touch. (Listing #5)
+11. **Same "bait" photo set across many agents.** One set of DAMAC Maison Privé interior photos appears on multiple listings (#2, #6, and the next). From past experience, ~95% of listings using these photos sent a different video/unit when contacted, and that look was never found in Business Bay. (Listing #6)
