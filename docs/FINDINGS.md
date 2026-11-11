@@ -70,3 +70,4 @@
 58. **She wants PF to keep her list.** Today she'd put saved fallbacks at the bottom of her own Excel; she wishes Property Finder helped her build and rank that list. (Listing #28)
 59. **🔑 Ranking within the "save" bucket.** She already orders her last-resort list: #29 first, #28 at the very end. Saved ≠ equal. (Listings #27–29)
 60. **🔑 Explicit ask: compute the monthly end price and keep a final list.** Rent + agency fee + taxes + DEWA etc. → true monthly cost, plus one consolidated list after going through all the descriptions. (Listing #29)
+61. **No hook = no reason to reach out.** When the description offers nothing (no discount, no flexible terms), she reads it as "no room to negotiate" and parks the listing, even with a good agent. (Listing #30; see #34)

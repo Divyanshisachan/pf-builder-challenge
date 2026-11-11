@@ -16,6 +16,7 @@
 - Building with gym, pool and sauna (nice to have)
 - Clean, healthy apartment
 - Prefers a higher floor with a view; **a good view matters** ("if I'm moving to Dubai, I want a good view")
+- **Likes a spacious room**
 - **Kitchen required**: wants to cook her own food
 
 ## Budget

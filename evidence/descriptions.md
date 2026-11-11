@@ -242,3 +242,10 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - ➕ **5% VAT + 10% service charge** + DTCM fee + deposit (no amounts); weekend/holiday rates; housekeeping extra.
 - ❌ lease type, bills, agency fee, Ejari, floor, view, photos real/indicative.
 - **First-timer would miss:** ≈ **9,200 + DTCM fee**.
+
+## #30 AG Tower, BB, AED 7,999/mo, 528 sqft
+- Agency: OYO Vacation Homes (same agent as #4, Aishwarya Kumari, 4.3 (12)). DTCM UAE-DUB-461; broker licence "na". **Listed 6+ months ago; available from 23 May 2024 (very stale).** 30 photos.
+- Closed kitchen; balcony; landmark view tag; pools, gym; "easy access" to the Business Bay metro (no distance); bus/taxi ~2 min.
+- ✅ **All utilities incl. (DEWA, Wi-Fi)** · ✅ no commission · ➕ 5% VAT · ➕ cleaning (no amount) · holiday/peak surcharges.
+- ❌ lease type, payment schedule, tourism fee, service charge, deposit, Ejari, photos real/indicative; homestay language ("guest", check-in/out).
+- **First-timer would miss:** ≈ 8,400 + cleaning; the availability date is 2.5 years old.
