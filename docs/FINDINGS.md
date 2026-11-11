@@ -50,3 +50,12 @@
     1. The apartment matches her **taste**.
     2. The **description matches what she needs** (bills included, monthly terms, long-term discount).
     Earlier listings had **ambiguous descriptions**, and reaching out to those agents wouldn't get her anywhere. So clear descriptions earn the inquiry; ambiguous ones don't. (Listing #21, reflecting on #1–21)
+
+## Reflections (after 21 listings)
+46. **🔑 Persona first, listings second.** What matters most is knowing who the searcher is and what they need before showing anything. Three rent/buy personas emerge:
+    - **Short-term renter** (her): uncertain stay of months, monthly terms, all-in price.
+    - **Relocating long-term renter**: ~1-year lease; goes through the same hassle (reading descriptions, judging images, finding well-rated agents).
+    - **Buyer.**
+47. **🔑 Fewer, better listings.** "Rather than showing me 100 listings, just show me 25 I'd actually be interested in."
+48. **🔑 PF doesn't ask what she wants.** Like a good salesperson, it should first understand the user. Today it's filters, and even after filtering she reads every description to work out what she likes.
+49. **She hasn't come across Scout on Property Finder yet.** Discoverability problem: the assistant isn't visible where she's searching.
