@@ -84,3 +84,12 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - ❌ DEWA, chiller, agency fee, Ejari, checkout terms, minimum stay, floor, view, photos real/indicative, sauna, metro.
 - "15% price drop" with no earlier price shown; "89% less than average" badge, but like-for-like it is **~26% above** average.
 - **First-timer would miss:** 7,500 listed ≈ **8,700 in month 1** (7,500 + 375 VAT + 525 service + 300 tourism) plus 200 cleaning and a deposit. Also, the "monthly rate" applies to the current month only, so the price can change in month 2.
+
+## #10 Studio One, Marina, AED 7,500/mo, 355 sqft (user's second "liked")
+- Agency: Stonetree Vacation Homes (154 listings); agent Jannel Calma, 4.2 (12). DTCM DUB-STU-YBO6B; agent licence 775214; broker licence "00000". Listed 6+ months ago; available 31 Aug 2026.
+- **Floor: 1st** (persona prefers high floor); balcony; view not stated.
+- ✅ **All bills incl.: electricity, water, gas, AC/chiller, Wi-Fi, TV** (first listing to cover chiller) · ✅ 1-month bookings or fixed packages of 2–12 months · ✅ **gym, pool, sauna**, steam room, jacuzzi · ✅ DMCC metro ~15 min walk · checkout 12:00.
+- ➕ Extras named with no amounts: admin fee, 5% VAT, DTCM fee, refundable deposit; cleaning is a paid add-on.
+- ❌ agency fee, Ejari, extension/renewal terms, cancellation policy (despite "Flexible Cancellation" in the title), photos real/indicative.
+- Rates may vary by season; "monthly payments" vs "1 cheque" conflict. Badge says "90% less than average", but like-for-like it is ~20% above.
+- **First-timer would miss:** 7,500 + 375 VAT ≈ **7,875 + DTCM fee + admin fee**, already over the 7,500 cap. Extension is a new "package" at possibly seasonal rates, not a guaranteed extension.

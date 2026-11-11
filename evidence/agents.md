@@ -11,6 +11,7 @@
 | 7 | DAMAC Maison Privé A, BB | Abhishek Tiwari | JSR Global Vacation Home Rentals LLC | 3.7 (19) | DTCM BUS-PRI-LMIEI | – |
 | 8 | Merano Tower, BB | Mohammed Hassan | JSR Global Vacation Home Rentals LLC | 3.8 (4) | none shown | – (agent licence "12345") |
 | 9 | Urban Oasis by Missoni, BB | Sharon Pingol | HomesGetaway | 4.2 (16) | DTCM BUS-URB-JK0AV | 849076 (real-looking) |
+| 10 | Studio One, Marina | Jannel Calma | Stonetree Vacation Homes Rental LLC | 4.2 (12) | DTCM DUB-STU-YBO6B | 00000 (agent licence 775214) |
 
 ## Patterns
 - **4 agencies across 7 listings**, all holiday-home or vacation-rental operators.

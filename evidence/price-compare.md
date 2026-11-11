@@ -13,6 +13,7 @@ Same listed price can hide a very different real cost. ✅ included · ➕ extra
 | 7 | DAMAC Maison Privé A, BB (= #6) | 6,999 | 431 | 16.2 | ❓ | ❓ | ➕ extra | ➕ extra, no amount | ❓ | ➕ required, no amount | **10% service charge**; 12 cheques | ~8,050 + tourism fee |
 | 8 | Merano Tower, BB | 6,499 | 334 | 19.5 | ✅ "all utilities" (title only) | ❓ | ❓ | ❓ | ❓ | ❓ | 1 cheque | 6,499 + unknowns |
 | 9 | Urban Oasis by Missoni, BB | 7,500 ("15% drop") | 420 | 17.9 | ❓ | ❓ | ➕ extra | ➕ AED 10/night, first 30 | ❓ | ➕ refundable, no amount | **7% service charge**; 200 cleaning/checkout; short-term only | ~8,700 in month 1 (7,500 + 375 VAT + 525 service + 300 tourism), ~8,400 after |
+| 10 | Studio One, Marina | 7,500 | 355 | 21.1 | ✅ electricity, water, gas, Wi-Fi, TV | ✅ incl. | ➕ extra | ➕ "DTCM fee", no amount | ❓ | ➕ refundable, no amount | Admin fee (no amount); cleaning is paid add-on; 1 cheque; seasonal rates | ~7,875 + DTCM + admin fee |
 
 ## What the table shows
 - **#1 vs #3:** similar price (5,000 vs 5,500) and size (520 vs 600), but #1 discloses nothing while #3 discloses most items.

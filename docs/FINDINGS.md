@@ -20,3 +20,5 @@
 16. **Clear lease type builds confidence.** #9 says plainly that it's short-term only (daily/weekly/monthly, not annual). For a visitor this is exactly the signal needed, and it wasn't visible on earlier listings. (Listing #9)
 17. **Disclosed fees build trust, but reveal the real price.** #9 lists tourism tax, VAT, service charge and a checkout/cleaning fee. The user liked it most, but once fees are added it's even further above budget. (Listing #9)
 18. **What made the first "liked" listing:** enough real room photos + real studio with kitchen + good amenities + agent rated >4 + clear lease type + fees stated. (Listing #9)
+19. **Monthly/flexible terms = fit for a visitor.** #10's monthly basis lets her stay 3 months and extend 1–2 more. A strong reason to like it. (Listing #10)
+20. **"Additional fees apply" with no amounts forces a call.** The fees are named but not priced, so she can't tell if it fits her budget without contacting the agent. (Listing #10)
