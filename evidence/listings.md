@@ -1,0 +1,6 @@
+# Listings scouted (raw, in order)
+
+| # | Link | Notes |
+|---|------|-------|
+| 1 | https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-dubai-marina-2QA21BwQ6sa.html | Dubai Marina, rent |
+| 2 | https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-business-bay-damac-maison-prive-damac-maison-prive-a-69114715.html | Business Bay, DAMAC Maison Privé, rent. Many room photos but likely not of this unit: same photos seen across many listings; agents later sent different videos/photos. No "photos indicative" note in description. Building name not mentioned in listing. Agent has no ratings. Overall: feels unbelievable. |
