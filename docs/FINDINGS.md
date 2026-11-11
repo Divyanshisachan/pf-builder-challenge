@@ -31,3 +31,4 @@
 27. **Same images, different prices.** #13's photos were seen on another, cheaper listing. (Listing #13)
 28. **Long-stay offers are buried in descriptions.** #13 is the first listing with long-stay special offers, and she only found them by reading the description. She'd like to see offers without opening every listing. (Listing #13)
 29. **Wants a cost calculator.** Descriptions list 5% this, 7% that; she wants to calculate the real total without doing the maths herself. (Listing #13)
+30. **Multi-month discounts exist but aren't priced.** #14 mentions special rates for 2–12 months but doesn't say how much, so she'd contact the agent to learn the 3-month price. (Listing #14)

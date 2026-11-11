@@ -119,3 +119,12 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - ⚠️ **30-night minimum; leaving early = whole amount non-refundable.**
 - ❌ DEWA/bills, chiller, agency fee, deposit, Ejari, payment terms, metro, photos real/indicative.
 - **First-timer would miss:** it's a hotel room with no kitchen, not a studio; ~7,950 in month 1; the non-refundable early-exit rule is risky for an uncertain stay length.
+
+## #14 Executive Bay A, BB, AED 7,000/mo (1-month rate), 482 sqft
+- Agency: Stonetree (same agent as #10, Jannel Calma, 4.2 (12)). DTCM BUS-EXE-D4AZ9; broker licence "00000". Listed 6+ months ago; available 19 Oct 2026.
+- **10th floor, partial canal view**, balcony; kitchen appliances; gym and pool, **no sauna**; **bus stop ~7 min walk**, no metro.
+- 1-month booking or 2–12 month packages (**no prices given**).
+- ➕ Extras named with no amounts: 5% VAT, DTCM fee, admin fee, refundable deposit; cleaning paid add-on. DEWA and internet excluded on yearly bookings; monthly not stated.
+- ❌ chiller, service charge, agency fee, Ejari, minimum stay, photos real/indicative.
+- Badge "90% less than average" again; like-for-like ~18% above. No same-building rental records shown; 62 active rental listings in the building.
+- **First-timer would miss:** 7,000 + 5% VAT = 7,350 + DTCM + admin fee, already near or over 7,500; the multi-month discount is unknown until asked.

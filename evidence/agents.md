@@ -15,6 +15,7 @@
 | 11 | Bayz by Danube, BB | Hanif Admin | Superhost Vacation Homes Rental | 4.1 (14) | DTCM BUS-BAY-FLVXT | 00000 |
 | 12 | Studio One, Marina | Maria Avdiukova | ShellGrow Holiday Homes LLC | 3.9 (16) | DTCM **"tmp"** (placeholder) | 00 (agent licence HH\|1199032) |
 | 13 | Grand Millennium BB | Shin Manalastas | Grand Millennium Business Bay **Hotel** (the hotel itself) | No ratings | DTCM 1449595 | 1449595 (same number for permit, broker and agent licence) |
+| 14 | Executive Bay A, BB | Jannel Calma (same as #10) | Stonetree Vacation Homes Rental LLC | 4.2 (12) | DTCM BUS-EXE-D4AZ9 | 00000 (agent licence 775214) |
 
 ## Patterns
 - **4 agencies across 7 listings**, all holiday-home or vacation-rental operators.
