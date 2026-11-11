@@ -200,3 +200,10 @@ Paraphrased from the live pages (fetched 12 Nov 2026). ✅ = stated, ❌ = not m
 - Metro ~5 min (reviews). Building reviews 3.5 (7): thin walls, window noise, parking 2.7.
 - Size 550 sqft vs sold studios in the building ~418 sqft (check).
 - **First-timer would miss:** ≈ 8,290 + agency fee; no permit number on the listing.
+
+## #24 MAG 318, BB, AED 7,998/mo, 440 sqft
+- Agency: Bespoke Residence and Holiday Homes; agent Angelique Aguilar, 4.2 (9), responds "within 2 hours". DTCM BUS-MAG-UGJ7X; licence 859534. Listed 6+ months ago; available 20 May 2026 (past). 26 photos.
+- Balcony, city view; open-plan kitchen; pool, spa; gym in the description only; **no metro mentioned**; description says "Downtown" but it's in Business Bay.
+- ➕ **5% VAT + 10% service charge** excluded · ➕ tourism fee AED 10/night, first 30 · ➕ cleaning fee (no amount) · ✅ **deposit AED 1,000 refundable** · daily/weekly also offered; seasonal rates.
+- ❌ lease type, payment schedule, long-term discount, agency fee, bills, Ejari, photos real/indicative.
+- **First-timer would miss:** 7,998 listed ≈ **9,500 in month 1**, ~19% above the headline.
