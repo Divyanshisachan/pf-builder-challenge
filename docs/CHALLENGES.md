@@ -7,3 +7,8 @@
 - **Evidence:** `evidence/scout/scout-login-wall-access-limited.png`, `evidence/scout/web-search-plain-english-fails.png`
 - **What I'd need:** Scout beta access, to test how it handles a short-term renter's query and whether it surfaces fees, duplicates and stale listings.
 - **Takeaway used in the design:** if a motivated user who is actively hunting for Scout can't reach it, a normal searcher won't. This is why the assistant must live **inside the search moments**, not on a separate page.
+
+## 2. Scope: renter-first, light buyer research
+- **Assumption to state upfront** (README, ONE-PAGER, AUDIT): the research is **largely from the renter side** of Property Finder (32 rent listings personally reviewed, plus persona and journey from lived experience).
+- The **buyer side is light**: 8 Business Bay 1BR sale listings checked by Claude (not personally reviewed), with a synthesised buyer persona (not interviews).
+- **Implication:** rent rules are evidence-backed; buyer rules (R10, buyer cost estimates) are directional and need validation with real buyers.
