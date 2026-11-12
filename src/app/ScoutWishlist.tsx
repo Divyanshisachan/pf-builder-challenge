@@ -259,7 +259,7 @@ export default function ScoutWishlist({ initialSaved, onBack, onOpen }: { initia
           <div className="sheetbg" onClick={() => setSheet(null)}><div className="sheet" onClick={(e) => e.stopPropagation()}>
             <div style={{ display: "flex", gap: 10, alignItems: "center" }}><img src={img(s.k)} alt="" referrerPolicy="no-referrer" style={{ width: 70, height: 52, objectFit: "cover", borderRadius: 8 }} />
               <div><b>{s.building}</b><div className="muted">AED {fmt(s.price)}/mo · {GROUP_NAME[groupOf(s.k)]} · score {t.score}</div></div></div>
-            {onOpen && (s.k === 11 || s.k === 16) && <button className="q" style={{ marginTop: 10 }} onClick={() => onOpen(s.k)}>Open listing ›</button>}
+            {onOpen && [11, 16, 9, 14, 2, 20, 17, 15].includes(s.k) && <button className="q" style={{ marginTop: 10 }} onClick={() => onOpen(s.k)}>Open listing ›</button>}
             <h4>a. Score breakdown</h4>
             <div className="row"><span>Start</span><b>100</b></div>
             {t.signals.map((x, i) => <div key={i} className="row"><span style={{ flex: 1, paddingRight: 8 }}>{x.plainReason}</span><b style={{ color: x.points < 0 ? "#E1251B" : "#1a7f4b" }}>{x.points > 0 ? "+" : ""}{x.points}</b></div>)}

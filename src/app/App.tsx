@@ -61,8 +61,7 @@ export default function App({ start = "search" }: { start?: Screen }) {
   };
 
   const tapCard = (c: Card) => {
-    if (c.detail) { setOpen(c.k); setDescOpen(false); setScreen("pdp"); }
-    else setToast({ t: "Prototype: only the first 2 listings open" });
+    setOpen(c.k); setDescOpen(false); setScreen("pdp");
   };
 
   const askAgent = (k: number) => {
@@ -175,9 +174,10 @@ export default function App({ start = "search" }: { start?: Screen }) {
           <div className="muted" style={{ marginTop: 8 }}>Available from {c.avail} · Listed {c.listed}</div>
           {isSaved && <button className="q" style={{ marginTop: 12 }} onClick={() => setScreen("wishlist")}>✦ Scout has a note on this home ›</button>}
         </div>
-        <div className="sec"><h4>Description</h4><div className={`desc ${descOpen ? "" : "clip"}`}>{c.desc}</div>
-          <button style={{ color: "#E1251B", fontWeight: 600, marginTop: 6 }} onClick={() => setDescOpen(!descOpen)}>{descOpen ? "Show less" : "Read more"}</button></div>
-        <div className="sec"><h4>Amenities</h4><div className="amen">{c.amen.map((a) => <span key={a}>{a}</span>)}</div></div>
+        <div className="sec"><h4>Description</h4>{c.desc ? <><div className={`desc ${descOpen ? "" : "clip"}`}>{c.desc}</div>
+          <button style={{ color: "#E1251B", fontWeight: 600, marginTop: 6 }} onClick={() => setDescOpen(!descOpen)}>{descOpen ? "Show less" : "Read more"}</button></> :
+          <p className="desc">Full description on the live listing: <a href={byK(c.k).url} target="_blank" rel="noreferrer" style={{ color: "#E1251B" }}>open on Property Finder ↗</a></p>}</div>
+        {c.amen.length > 0 && <div className="sec"><h4>Amenities</h4><div className="amen">{c.amen.map((a) => <span key={a}>{a}</span>)}</div></div>}
         <div className="sec"><h4>Property details</h4><div className="kv">
           <span>Type</span><b>Apartment</b><span>Size</span><b>{c.sqft} sqft</b><span>Bedrooms</span><b>Studio</b><span>Furnishing</span><b>Furnished</b><span>Available from</span><b>{c.avail}</b>
         </div></div>
