@@ -68,19 +68,18 @@ There's no data yet on revenue impact, so this is the trade-off if PF ships it.
 - The size of each move needs the 1% test.
 
 ## One number that proves it
-- **The number:** the **confirmed-match rate**. Of the homes Scout marks Looks genuine, how many does the agent confirm are real, still free, and at the price Scout showed?
-- **Test:** switch Scout on for 1% of rent searchers in Business Bay and Marina for 4 weeks; the other 99% use PF as today. Compare Scout's homes with the homes the 99% message.
-- **What proves me wrong:** Scout's homes are confirmed less than 5 points more often, or viewings per searcher don't go up.
+- **The number:** how often Scout is right. Of the homes Scout calls Looks genuine, what share does the agent confirm are real, still free, and at that price?
+- **Test:** turn Scout on for 1% of renters in Business Bay and Marina for 4 weeks, and compare with the other 99%.
+- **I'm wrong if** Scout's homes aren't confirmed at least 5 points more often, or people don't book more viewings.
 
 ## What I could not build (priority order)
 | # | Feature | Why it's needed | Why I couldn't add it |
 |---|---|---|---|
 | 1 | Real agent replies | Real replies and reply rates (simulated / sample in the UI) | No WhatsApp or PF inbox integration; no reply data |
 | 2 | Buyer-side prototype | The assistant must work for buyers too | Time; buyer research was bird's-eye only (8 listings, no interviews) |
-| 3 | Pages for all listings | Only #11 and #16 open as full listing pages | Short on time |
+| 3 | Full details for every listing | Only #11 and #16 show the full description; the others link to the live listing | Short on time |
 | 4 | Live permit and licence check | R1: proves who the advertiser is | No DLD Trakheesi / DTCM data access |
-| 5 | Live listing feed | Rules must run on every listing, not 32 | No PF listings API; the audit was done by hand |
-| 6 | Photo matching across listings | R7: catches recycled bait photo sets | Needs PF's image store plus engineering |
-| 7 | DLD transaction prices | R5: fair price per building, especially for buyers | No DLD feed; I used listing medians instead |
-| 8 | Outcome feedback loop | Contradicted listings reported to PF moderation | Needs a PF backend and a moderation process |
-| 9 | LLM reading of descriptions | Extracts fees and terms from free text | No API key; the prototype uses fixed rules |
+| 5 | Photo matching across listings | R7: catches recycled bait photo sets | Needs PF's image store plus engineering |
+| 6 | DLD transaction prices | R5: fair price per building, especially for buyers | No DLD feed; I used listing medians instead |
+| 7 | Outcome feedback loop | Contradicted listings reported to PF moderation | Needs a PF backend and a moderation process |
+| 8 | LLM reading of descriptions | Extracts fees and terms from free text | No API key; the prototype uses fixed rules |
