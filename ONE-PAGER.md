@@ -19,22 +19,22 @@ On the surface, some listings are fake. Underneath, from the page she can't tell
 - **Probable bug:** PF's "~90% below average" badge compares monthly rent with an annual average on 29/30 rent listings.
 
 ## Rules ([full set](RULES.md))
-Every listing starts at 100; each sign adds or takes points. **70+ Looks genuine · 40–69 Needs checking · under 40 Likely misleading.**
+Each warning sign lowers trust. Scout sorts saved homes into **Looks genuine · Needs checking · Likely misleading**, and always says why.
 
-| Rule | What it checks | Points |
-|---|---|---|
-| R1 | No permit, or a fake licence | −15 to −50 |
-| R2 | "Studio" is really a hotel room | −20 / −30 |
-| R3 | Two or more warning signs | by score |
-| R4 | Listed 90+ days: still free? | +5 to −35 |
-| R5 | Price ±20% vs area median | −10 to −30 |
-| R6 | Same unit, 2 agents, same price | +10 / −15 |
-| R7 | Photos or size don't match | −10 / −20 |
-| R8 | Hidden fees or a conditional price | −10 to −30 |
-| R9 | Building or location unclear | −10 / −20 |
-| R10 | Buyer: handover or tenancy unclear | ask only |
+| Rule | Warning sign |
+|---|---|
+| R1 | No permit, or a fake licence |
+| R2 | "Studio" is really a hotel room |
+| R3 | Two or more warning signs |
+| R4 | Listed 90+ days ago: still free? |
+| R5 | Price ±20% vs the area median |
+| R6 | Same unit, 2 agents, same price |
+| R7 | Photos or size don't match |
+| R8 | Hidden fees or a conditional price |
+| R9 | Building or location unclear |
+| R10 | Buyer: handover or tenancy unclear |
 
-Also: agent signals (SuperAgent +5, rating under 3.5 −5) and building reviews (+3 / −5). The weights reproduce my verdicts on 32/32 listings (in-sample).
+**Where rules break:** each rule in RULES.md lists a real case where it's wrong. For example, R6 thinks #16/#17 are one unit, but they're on different floors. Tested on my 32 calls: the first rules matched 14/32; the fixed rules match 31/32. (Point weights are in RULES.md.)
 
 ## Where it lives
 - **In the Wishlist, on web and app.** The ❤ is the trigger.
@@ -68,9 +68,9 @@ There's no data yet on revenue impact, so this is the trade-off if PF ships it.
 - The size of each move needs the 1% test.
 
 ## One number that proves it
-- **The number:** of the listings Scout keeps on the short list, the share where the agent confirms the unit is real, still available and at the price Scout showed (the **confirmed-match rate**).
-- **Test:** 1% of Business Bay and Marina rent searchers (web and app) get Scout for 4 weeks; the other 99% are the control.
-- **What proves me wrong:** Scout's short list is confirmed no more than 5 points more often than the listings control users contact, or viewings per searcher stay flat.
+- **The number:** the **confirmed-match rate**. Of the homes Scout marks Looks genuine, how many does the agent confirm are real, still free, and at the price Scout showed?
+- **Test:** switch Scout on for 1% of rent searchers in Business Bay and Marina for 4 weeks; the other 99% use PF as today. Compare Scout's homes with the homes the 99% message.
+- **What proves me wrong:** Scout's homes are confirmed less than 5 points more often, or viewings per searcher don't go up.
 
 ## What I could not build (priority order)
 | # | Feature | Why it's needed | Why I couldn't add it |
