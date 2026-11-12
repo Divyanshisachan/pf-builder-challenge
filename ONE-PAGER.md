@@ -77,9 +77,8 @@ There's no data yet on revenue impact, so this is the trade-off if PF ships it.
 |---|---|---|---|
 | 1 | Real agent replies | Real replies and reply rates (simulated / sample in the UI) | No WhatsApp or PF inbox integration; no reply data |
 | 2 | Buyer-side prototype | The assistant must work for buyers too | Time; buyer research was bird's-eye only (8 listings, no interviews) |
-| 3 | Full details for every listing | Only #11 and #16 show the full description; the others link to the live listing | Short on time |
-| 4 | Live permit and licence check | R1: proves who the advertiser is | No DLD Trakheesi / DTCM data access |
-| 5 | Photo matching across listings | R7: catches recycled bait photo sets | Needs PF's image store plus engineering |
-| 6 | DLD transaction prices | R5: fair price per building, especially for buyers | No DLD feed; I used listing medians instead |
-| 7 | Outcome feedback loop | Contradicted listings reported to PF moderation | Needs a PF backend and a moderation process |
-| 8 | LLM reading of descriptions | Extracts fees and terms from free text | No API key; the prototype uses fixed rules |
+| 3 | Live permit and licence check | R1: proves who the advertiser is | No DLD Trakheesi / DTCM data access |
+| 4 | Photo matching across listings | R7: catches recycled bait photo sets | Needs PF's image store plus engineering |
+| 5 | DLD transaction prices | R5: fair price per building, especially for buyers | No DLD feed; I used listing medians instead |
+| 6 | Outcome feedback loop | Contradicted listings reported to PF moderation | Needs a PF backend and a moderation process |
+| 7 | LLM reading of descriptions | Extracts fees and terms from free text | No API key; the prototype uses fixed rules |
